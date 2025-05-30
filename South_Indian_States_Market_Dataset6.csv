@@ -1,0 +1,1470 @@
+State,Market,Commodity,Varity,Arrival_Date,Min_Price,Max_Price,Modal_Price
+Andhra Pradesh,Anchal,Amaranthus,Other,24-12-2024,3333,5678,5648
+Andhra Pradesh,Adoni,Arhar (Tur/Red Gram)(Whole),777 New Ind,24-12-2024,1900,2200,2000
+Andhra Pradesh,Aler,Arhar (Tur/Red Gram)(Whole),777 New Ind,24-12-2024,3630,4380,4005
+Andhra Pradesh,Anchal,Ashgourd,Other,24-12-2024,10000,12000,11000
+Andhra Pradesh,Anchal,Banana,Poovan,24-12-2024,1340,1800,1540
+Andhra Pradesh,Anchal,Banana,Nendra Bale,24-12-2024,2200,2300,2300
+Andhra Pradesh,Anchal,Banana,Red Banana,24-12-2024,2320,2320,2320
+Andhra Pradesh,Amballur  VFPCK,Banana,Nendra Bale,24-12-2024,3200,3500,3500
+Andhra Pradesh,Anchal,Banana,Robusta,24-12-2024,3200,3370,3285
+Andhra Pradesh,Anchal,Banana,Palayamthodan,24-12-2024,7000,8000,7500
+Andhra Pradesh,Anchal,Beetroot,Other,24-12-2024,7000,8000,7500
+Andhra Pradesh,Anchal,Bhindi(Ladies Finger),Other,24-12-2024,8400,8600,8500
+Andhra Pradesh,Anchal,Bitter gourd,Bitter Gourd,24-12-2024,3390,3920,3655
+Andhra Pradesh,Anchal,Bottle gourd,Other,24-12-2024,1600,2120,1800
+Andhra Pradesh,Anchal,Brinjal,Brinjal,24-12-2024,1800,2600,2400
+Andhra Pradesh,Anchal,Cabbage,Other,24-12-2024,2300,2300,2300
+Andhra Pradesh,Anchal,Capsicum,Capsicum,24-12-2024,1600,2100,1900
+Andhra Pradesh,Anchal,Carrot,Carrot,24-12-2024,2300,2320,2300
+Andhra Pradesh,Adoni,Castor Seed,Castor seed,24-12-2024,4632,4632,4632
+Andhra Pradesh,Anchal,Cauliflower,Cauliflower,24-12-2024,11000,11000,11000
+Andhra Pradesh,Anchal,Coconut,Other,24-12-2024,4600,5000,4800
+Andhra Pradesh,Anchal,Colacasia,Colacasia,24-12-2024,800,1200,900
+Andhra Pradesh,Adoni,Cotton,Bunny,24-12-2024,1500,2000,1700
+Andhra Pradesh,Anchal,Cucumbar(Kheera),Other,24-12-2024,1000,1500,1200
+Andhra Pradesh,Anchal,Elephant Yam (Suran),Elephant Yam (Suran),24-12-2024,1500,1900,1700
+Andhra Pradesh,Adoni,Groundnut,Balli/Habbu,24-12-2024,3100,6380,6150
+Andhra Pradesh,Anakapally,Gur(Jaggery),NO 3,24-12-2024,1000,2300,1700
+Andhra Pradesh,Anakapally,Gur(Jaggery),NO 1,24-12-2024,1300,1800,1550
+Andhra Pradesh,Anakapally,Gur(Jaggery),NO 2,24-12-2024,2300,2320,2300
+Andhra Pradesh,Anchal,Onion,Other,24-12-2024,1100,1600,1300
+Andhra Pradesh,Anchal,Pineapple,Other,24-12-2024,3400,4000,3700
+Andhra Pradesh,Anchal,Potato,Other,24-12-2024,11000,11400,11000
+Andhra Pradesh,Anchal,Pumpkin,Pumpkin,24-12-2024,5408,7220,7089
+Andhra Pradesh,Anchal,Snakeguard,Snakeguard,24-12-2024,7338,7381,7363
+Andhra Pradesh,Adoni,Sunflower,Local,24-12-2024,1800,2200,2000
+Andhra Pradesh,Anchal,Tapioca,Other,24-12-2024,3200,3400,3300
+Andhra Pradesh,Anchal,Tomato,Hybrid,24-12-2024,3469,5193,5190
+Karnataka,Bangalore,Alasande Gram,Alasande Gram,24-12-2024,600,900,800
+Karnataka,"Binny Mill (F&V), Bangalore",Alsandikai,Alsandikai,24-12-2024,2800,3000,2900
+Karnataka,Angamaly,Amaranthus,Amaranthus,24-12-2024,1200,1600,1400
+Karnataka,Chelakkara,Amaranthus,Other,24-12-2024,2105,3050,3000
+Karnataka,Bowenpally,Amla(Nelli Kai),Amla,24-12-2024,3000,4500,4000
+Karnataka,"Binny Mill (F&V), Bangalore",Apple,Apple,24-12-2024,1879,2079,1979
+Karnataka,Bangalore,Arhar Dal(Tur Dal),Arhar Dal(Tur),24-12-2024,6800,7000,6900
+Karnataka,Chelakkara,Ashgourd,Other,24-12-2024,2000,4000,3000
+Karnataka,Angamaly,Ashgourd,Ashgourd,24-12-2024,7000,7300,7150
+Karnataka,Athirampuzha,Ashgourd,Ashgourd,24-12-2024,7500,7800,7650
+Karnataka,Bangalore,Avare Dal,Avare (Whole),24-12-2024,4168,4168,4168
+Karnataka,Athirampuzha,Banana,Poovan,24-12-2024,2350,2400,2380
+Karnataka,Athirampuzha,Banana,Banana - Ripe,24-12-2024,3800,4200,4000
+Karnataka,"Binny Mill (F&V), Bangalore",Banana - Green,Banana - Green,24-12-2024,1600,2600,2100
+Karnataka,Chavakkad,Banana - Green,Other,24-12-2024,1600,2000,1800
+Karnataka,Chavassery VFPCK,Banana - Green,Banana - Green,24-12-2024,2067,2211,2145
+Karnataka,Athirampuzha,Banana - Green,Banana - Green,24-12-2024,2300,2320,2310
+Karnataka,Angamaly,Banana - Green,Banana - Green,24-12-2024,2746,2946,2846
+Karnataka,Chelakkara,Banana - Green,Other,24-12-2024,3800,4000,3900
+Karnataka,Chamaraj Nagar,Beans,Beans (Whole),24-12-2024,1000,1600,1300
+Karnataka,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),24-12-2024,3800,4000,3900
+Karnataka,Angamaly,Beetroot,Beetroot,24-12-2024,1000,2000,1500
+Karnataka,Chamaraj Nagar,Beetroot,Beetroot,24-12-2024,1000,2000,1500
+Karnataka,Athirampuzha,Beetroot,Beetroot,24-12-2024,1600,2800,2000
+Karnataka,Bowenpally,Beetroot,Beetroot,24-12-2024,1800,1800,1800
+Karnataka,Chavakkad,Beetroot,Other,24-12-2024,3600,5000,4400
+Karnataka,"Binny Mill (F&V), Bangalore",Beetroot,Beetroot,24-12-2024,3800,4500,4150
+Karnataka,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,24-12-2024,1600,2000,1800
+Karnataka,Bangalore,Bengal Gram(Gram)(Whole),Average (Whole),24-12-2024,3000,4000,3200
+Karnataka,Angamaly,Bhindi(Ladies Finger),Bhindi,24-12-2024,500,700,600
+Karnataka,Chelakkara,Bhindi(Ladies Finger),Other,24-12-2024,2000,4000,3000
+Karnataka,Chavakkad,Bhindi(Ladies Finger),Other,24-12-2024,2055,2345,2249
+Karnataka,Bowenpally,Bhindi(Ladies Finger),Bhindi,24-12-2024,3000,4000,3500
+Karnataka,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,24-12-2024,3500,3500,3500
+Karnataka,Athirampuzha,Bhindi(Ladies Finger),Bhindi,24-12-2024,4700,5600,5150
+Karnataka,Bowenpally,Bitter gourd,Bitter Gourd,24-12-2024,800,1200,1000
+Karnataka,Chavakkad,Bitter gourd,Other,24-12-2024,3000,3800,3400
+Karnataka,Athirampuzha,Bitter gourd,Bitter Gourd,24-12-2024,3500,4000,3700
+Karnataka,Angamaly,Bitter gourd,Bitter Gourd,24-12-2024,4600,4900,4750
+Karnataka,Chelakkara,Bitter gourd,Other,24-12-2024,6500,7500,7000
+Karnataka,"Binny Mill (F&V), Bangalore",Bitter gourd,Bitter Gourd,24-12-2024,9200,11800,10500
+Karnataka,Bangalore,Black Gram (Urd Beans)(Whole),Black Gram (Whole),24-12-2024,2800,3600,3000
+Karnataka,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,24-12-2024,2000,2500,2300
+Karnataka,Athirampuzha,Bottle gourd,Bottle Gourd,24-12-2024,2800,3000,2900
+Karnataka,"Binny Mill (F&V), Bangalore",Bottle gourd,Bottle Gourd,24-12-2024,4107,4140,4133
+Karnataka,Bowenpally,Bottle gourd,Bottle Gourd,24-12-2024,5000,5699,5600
+Karnataka,Angamaly,Bottle gourd,Bottle Gourd,24-12-2024,8000,14000,10000
+Karnataka,Angamaly,Brinjal,Brinjal,24-12-2024,1500,3000,2000
+Karnataka,Chavakkad,Brinjal,Other,24-12-2024,1500,2000,1750
+Karnataka,Chelakkara,Brinjal,Other,24-12-2024,2000,4000,3000
+Karnataka,"Binny Mill (F&V), Bangalore",Brinjal,Brinjal,24-12-2024,2100,2300,2150
+Karnataka,Bowenpally,Brinjal,Arkasheela Mattigulla,24-12-2024,4800,5000,4900
+Karnataka,Athirampuzha,Brinjal,Brinjal,24-12-2024,12000,15000,13500
+Karnataka,Chamaraj Nagar,Brinjal,Round/Long,24-12-2024,20000,21000,20500
+Karnataka,Chamaraj Nagar,Brinjal,Other,24-12-2024,25000,35000,30000
+Karnataka,"Binny Mill (F&V), Bangalore",Bunch Beans,Bunch Beans,24-12-2024,1800,2200,2000
+Karnataka,Athirampuzha,Cabbage,Cabbage,24-12-2024,2000,2600,2400
+Karnataka,Bowenpally,Cabbage,Cabbage,24-12-2024,2000,2400,2273
+Karnataka,Chavakkad,Cabbage,Other,24-12-2024,5000,5500,5300
+Karnataka,"Binny Mill (F&V), Bangalore",Cabbage,Cabbage,24-12-2024,5400,6000,5700
+Karnataka,Chamaraj Nagar,Cabbage,Cabbage,24-12-2024,5500,6000,5750
+Karnataka,Angamaly,Cabbage,Cabbage,24-12-2024,6000,7000,6500
+Karnataka,"Binny Mill (F&V), Bangalore",Capsicum,Capsicum,24-12-2024,400,1900,1150
+Karnataka,Bowenpally,Capsicum,Capsicum,24-12-2024,2150,2300,2200
+Karnataka,Angamaly,Carrot,Carrot,24-12-2024,1000,1200,1100
+Karnataka,Bowenpally,Carrot,Carrot,24-12-2024,1000,2500,2000
+Karnataka,Chamaraj Nagar,Carrot,Carrot,24-12-2024,2500,4000,3200
+Karnataka,"Binny Mill (F&V), Bangalore",Carrot,Carrot,24-12-2024,2800,3000,2900
+Karnataka,Athirampuzha,Carrot,Carrot,24-12-2024,3000,4000,3600
+Karnataka,Chavakkad,Carrot,Other,24-12-2024,3335,3335,3335
+Karnataka,"Binny Mill (F&V), Bangalore",Cauliflower,Cauliflower,24-12-2024,1500,3000,2000
+Karnataka,Bowenpally,Cauliflower,African Sarson,24-12-2024,2000,4000,3000
+Karnataka,Athirampuzha,Cauliflower,Cauliflower,24-12-2024,2800,3000,2900
+Karnataka,Angamaly,Cauliflower,Cauliflower,24-12-2024,3000,4000,3600
+Karnataka,"Binny Mill (F&V), Bangalore",Chapparad Avare,Chapparada Avarekai,24-12-2024,3700,4000,3850
+Karnataka,Bangalore,Chennangi Dal,Chennangi Dal,24-12-2024,18800,21000,19900
+Karnataka,Bowenpally,Chow Chow,Chow Chow,24-12-2024,1000,2000,1500
+Karnataka,Bowenpally,Cluster beans,Cluster Beans,24-12-2024,1000,3000,2000
+Karnataka,Chavakkad,Cluster beans,Cluster Beans,24-12-2024,1200,2000,1500
+Karnataka,Angamaly,Cluster beans,Cluster Beans,24-12-2024,1500,2500,2000
+Karnataka,Athirampuzha,Coconut,Other,24-12-2024,1000,2000,1500
+Karnataka,Bangalore,Coconut,Grade-I,24-12-2024,2400,3600,3000
+Karnataka,Chavakkad,Coconut,Other,24-12-2024,3510,3750,3600
+Karnataka,Angamaly,Colacasia,Other,24-12-2024,2000,3000,2500
+Karnataka,Athirampuzha,Colacasia,Other,24-12-2024,4000,5000,4500
+Karnataka,Bowenpally,Colacasia,Colacasia,24-12-2024,5000,7000,6000
+Karnataka,Bangalore,Corriander seed,Coriander Seed,24-12-2024,1800,3000,2000
+Karnataka,Boath,Cotton,Cotton (Unginned),24-12-2024,3500,4500,4000
+Karnataka,Burgampadu,Cotton,Cotton (Unginned),24-12-2024,7700,8800,8250
+Karnataka,Chavakkad,Cowpea(Veg),Other,24-12-2024,6200,6200,6200
+Karnataka,Chelakkara,Cowpea(Veg),Other,24-12-2024,7500,8800,8150
+Karnataka,Athirampuzha,Cowpea(Veg),Cowpea (Veg),24-12-2024,30000,40000,35000
+Karnataka,Bowenpally,Cucumbar(Kheera),Cucumbar,24-12-2024,700,1800,1800
+Karnataka,Angamaly,Cucumbar(Kheera),Other,24-12-2024,1800,2000,1900
+Karnataka,Chelakkara,Cucumbar(Kheera),Other,24-12-2024,2000,4000,3000
+Karnataka,"Binny Mill (F&V), Bangalore",Cucumbar(Kheera),Cucumbar,24-12-2024,3200,4000,3600
+Karnataka,Chamaraj Nagar,Cucumbar(Kheera),Cucumbar,24-12-2024,3600,4000,3800
+Karnataka,Athirampuzha,Cucumbar(Kheera),Cucumbar,24-12-2024,11000,12000,11500
+Karnataka,Athirampuzha,Drumstick,Drumstick,24-12-2024,1300,1500,1400
+Karnataka,Bowenpally,Drumstick,Drumstick,24-12-2024,2500,4500,3500
+Karnataka,"Binny Mill (F&V), Bangalore",Drumstick,Drumstick,24-12-2024,4000,4800,4400
+Karnataka,Bangalore,Dry Chillies,Byadgi,24-12-2024,1600,2000,1800
+Karnataka,Bangalore,Dry Chillies,Guntur,24-12-2024,3800,4200,4000
+Karnataka,Bangalore,Dry Grapes,Dry Grapes,24-12-2024,10500,18000,14250
+Karnataka,Chelakkara,Duster Beans,Other,24-12-2024,1500,3000,2000
+Karnataka,Chelakkara,Elephant Yam (Suran),Other,24-12-2024,800,1200,1000
+Karnataka,Bowenpally,Field Pea,Field Pea,24-12-2024,8000,13000,11000
+Karnataka,Angamaly,Field Pea,Field Pea,24-12-2024,10800,15400,13100
+Karnataka,Athirampuzha,French Beans (Frasbean),French Beans (Frasbean),24-12-2024,1800,2200,2000
+Karnataka,Bowenpally,French Beans (Frasbean),French Beans (Frasbean),24-12-2024,3600,4200,3900
+Karnataka,Athirampuzha,Garlic,Garlic,24-12-2024,1600,2000,1800
+Karnataka,Bangalore,Garlic,Garlic,24-12-2024,2500,3500,3000
+Karnataka,Angamaly,Ginger(Green),Green Ginger,24-12-2024,2100,2290,2250
+Karnataka,"Binny Mill (F&V), Bangalore",Ginger(Green),Green Ginger,24-12-2024,2420,2420,2420
+Karnataka,Bangalore,Ginger(Green),Green Ginger,24-12-2024,8000,9300,8650
+Karnataka,Athirampuzha,Ginger(Green),Green Ginger,24-12-2024,9800,11500,10650
+Karnataka,"Binny Mill (F&V), Bangalore",Green Avare (W),Green Avare (W),24-12-2024,3000,5000,4000
+Karnataka,Angamaly,Green Chilli,Green Chilly,24-12-2024,1800,2200,2000
+Karnataka,Chavakkad,Green Chilli,Other,24-12-2024,2000,2600,2200
+Karnataka,Chamaraj Nagar,Green Chilli,Green Chilly,24-12-2024,2800,3600,3000
+Karnataka,Athirampuzha,Green Chilli,Green Chilly,24-12-2024,4000,5600,5000
+Karnataka,Bowenpally,Green Chilli,Green Chilly,24-12-2024,5000,6500,5100
+Karnataka,Chelakkara,Green Chilli,Other,24-12-2024,6900,8400,7860
+Karnataka,"Binny Mill (F&V), Bangalore",Green Chilli,Green Chilly,24-12-2024,13300,13300,13300
+Karnataka,Bangalore,Green Gram (Moong)(Whole),Green (Whole),24-12-2024,260,1660,1000
+Karnataka,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,24-12-2024,1500,2300,2000
+Karnataka,Bangalore,Green Peas,Green Peas,24-12-2024,19000,20000,19500
+Karnataka,Bangalore,Ground Nut Seed,Ground Nut Seed,24-12-2024,2500,3000,2750
+Karnataka,Bangalore,Groundnut,Big (With Shell),24-12-2024,3500,5000,4400
+Karnataka,Bowenpally,Groundnut pods (raw),Groundnut pods (raw),24-12-2024,2400,3200,3000
+Karnataka,Bangalore,Gur(Jaggery),Mudde,24-12-2024,4800,5000,4800
+Karnataka,Bangalore,Jowar(Sorghum),Jowar ( White),24-12-2024,2100,2320,2280
+Karnataka,Bowenpally,Knool Khol,Knool Khol,24-12-2024,2000,2400,2200
+Karnataka,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,24-12-2024,5000,6000,5500
+Karnataka,Chamaraj Nagar,Knool Khol,Knool Khol,24-12-2024,9700,11100,10400
+Karnataka,Bangalore,Kulthi(Horse Gram),Horse gram (Whole),24-12-2024,4000,4800,4800
+Karnataka,Athirampuzha,Lemon,Other,24-12-2024,2400,4000,3200
+Karnataka,Angamaly,Little gourd (Kundru),Other,24-12-2024,2400,2600,2500
+Karnataka,Athirampuzha,Little gourd (Kundru),Other,24-12-2024,2400,3000,2800
+Karnataka,Bangalore,Maize,Hybrid/Local,24-12-2024,4800,5000,4800
+Karnataka,Athirampuzha,Mango (Raw-Ripe),Mango - Raw-Ripe,24-12-2024,3000,5000,3500
+Karnataka,Bangalore,Methi Seeds,Methiseeds,24-12-2024,1600,3000,2300
+Karnataka,"Binny Mill (F&V), Bangalore",Mousambi(Sweet Lime),Mousambi,24-12-2024,2000,3000,2500
+Karnataka,Bangalore,Mustard,Other,24-12-2024,2250,2250,2250
+Karnataka,Bangalore,Onion,Puna,24-12-2024,1000,1500,1250
+Karnataka,Chavakkad,Onion,Other,24-12-2024,1400,2200,2000
+Karnataka,Athirampuzha,Onion,Big,24-12-2024,1600,2000,1800
+Karnataka,Bangalore,Onion,Bangalore-Samall,24-12-2024,2100,2250,2200
+Karnataka,Chelakkara,Onion,Other,24-12-2024,2152,2818,2200
+Karnataka,Bangalore,Onion,Local,24-12-2024,3500,5000,4300
+Karnataka,Bowenpally,Onion,1st Sort,24-12-2024,4600,7500,6050
+Karnataka,Athirampuzha,Onion,Onion,24-12-2024,8500,10200,9350
+Karnataka,Angamaly,Onion,Big,24-12-2024,11000,14000,12500
+Karnataka,Bangalore,Onion,Onion,24-12-2024,18000,20000,19000
+Karnataka,Bowenpally,Onion Green,Onion Green,24-12-2024,1600,2000,1800
+Karnataka,"Binny Mill (F&V), Bangalore",Orange,Orange,24-12-2024,2800,3000,2900
+Karnataka,Bhongir,Paddy(Dhan)(Common),I.R. 64,24-12-2024,5457,5657,5557
+Karnataka,Burgampadu,Paddy(Dhan)(Common),Samba Masuri,24-12-2024,10200,12000,11100
+Karnataka,Charla,Paddy(Dhan)(Common),MTU-1010,24-12-2024,14000,16000,15000
+Karnataka,"Binny Mill (F&V), Bangalore",Peas Wet,Peas Wet,24-12-2024,5500,7500,6500
+Karnataka,Chavakkad,Pineapple,Pine Apple,24-12-2024,1600,1700,1650
+Karnataka,Athirampuzha,Pineapple,Other,24-12-2024,2250,2450,2350
+Karnataka,Angamaly,Pineapple,Pine Apple,24-12-2024,9000,11500,10250
+Karnataka,"Binny Mill (F&V), Bangalore",Pomegranate,Pomogranate,24-12-2024,7800,8000,7900
+Karnataka,Bowenpally,Potato,(Red Nanital),24-12-2024,300,600,500
+Karnataka,Chavakkad,Potato,Other,24-12-2024,1400,1800,1600
+Karnataka,Bangalore,Potato,Potato,24-12-2024,1600,2500,2000
+Karnataka,Bangalore,Potato,Local,24-12-2024,3600,4000,3800
+Karnataka,Athirampuzha,Potato,Potato,24-12-2024,8800,12500,10650
+Karnataka,Angamaly,Potato,Potato,24-12-2024,9000,9800,9500
+Karnataka,Angamaly,Pumpkin,Pumpkin,24-12-2024,2200,2300,2274
+Karnataka,Chelakkara,Pumpkin,Other,24-12-2024,2400,2600,2500
+Karnataka,Athirampuzha,Pumpkin,Pumpkin,24-12-2024,2800,3000,2900
+Karnataka,Bowenpally,Pumpkin,Other,24-12-2024,3800,5500,4600
+Karnataka,Bowenpally,Raddish,Other,24-12-2024,2800,3500,3200
+Karnataka,"Binny Mill (F&V), Bangalore",Raddish,Raddish,24-12-2024,3000,4000,3600
+Karnataka,Chamaraj Nagar,Raddish,Raddish,24-12-2024,5000,6000,5500
+Karnataka,Bangalore,Ragi (Finger Millet),Fine,24-12-2024,3200,4000,3600
+Karnataka,Bangalore,Rice,Dappa,24-12-2024,2300,2700,2350
+Karnataka,Bangalore,Rice,Fine,24-12-2024,2400,3000,2800
+Karnataka,Bangalore,Rice,Medium,24-12-2024,14800,15800,15300
+Karnataka,Bowenpally,Ridgeguard(Tori),Other,24-12-2024,8900,9400,8938
+Karnataka,"Binny Mill (F&V), Bangalore",Ridgeguard(Tori),Ridgeguard(Tori),24-12-2024,13000,26000,21000
+Karnataka,Chamaraj Nagar,Ridgeguard(Tori),Ridgeguard(Tori),24-12-2024,15000,17000,16000
+Karnataka,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,24-12-2024,7300,8000,7650
+Karnataka,Bangalore,"Sesamum(Sesame,Gingelly,Til)",White,24-12-2024,500,1500,1000
+Karnataka,Angamaly,Snakeguard,Snakeguard,24-12-2024,800,1000,900
+Karnataka,"Binny Mill (F&V), Bangalore",Snakeguard,Snakeguard,24-12-2024,1000,2000,1500
+Karnataka,Chavakkad,Snakeguard,Other,24-12-2024,1667,1667,1667
+Karnataka,Athirampuzha,Snakeguard,Snakeguard,24-12-2024,2800,3400,3100
+Karnataka,Bowenpally,Snakeguard,Other,24-12-2024,3000,4000,3600
+Karnataka,Bangalore,Soyabean,Soyabeen,24-12-2024,2200,2450,2200
+Karnataka,"Binny Mill (F&V), Bangalore",Suvarna Gadde,Suvarnagadde,24-12-2024,3200,4000,3600
+Karnataka,Bowenpally,Sweet Potato,Hosur Green,24-12-2024,1457,1457,1457
+Karnataka,"Binny Mill (F&V), Bangalore",Sweet Potato,Sweet Potato,24-12-2024,9500,9800,9650
+Karnataka,Bangalore,Tamarind Fruit,Tamarind Fruit,24-12-2024,3000,4300,3650
+Karnataka,Chavakkad,Tapioca,Other,24-12-2024,1000,2000,1500
+Karnataka,Angamaly,Tapioca,Tapioca,24-12-2024,1333,1875,1875
+Karnataka,Chelakkara,Tapioca,Other,24-12-2024,10500,10800,10650
+Karnataka,"Binny Mill (F&V), Bangalore",Thogrikai,Thogarikai,24-12-2024,2000,2800,2560
+Karnataka,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,24-12-2024,2000,2500,2300
+Karnataka,Chamaraj Nagar,Tomato,Tomato,24-12-2024,2000,2600,2300
+Karnataka,Athirampuzha,Tomato,Tomato,24-12-2024,2500,3000,2750
+Karnataka,"Binny Mill (F&V), Bangalore",Tomato,Tomato,24-12-2024,3200,4000,3600
+Karnataka,Bowenpally,Tomato,Deshi,24-12-2024,6650,8600,7300
+Karnataka,Chavakkad,Tomato,Other,24-12-2024,8320,8320,8320
+Karnataka,Angamaly,Tomato,Other,24-12-2024,11500,15800,13650
+Karnataka,Charla,Water Melon,Water Melon,24-12-2024,3200,3600,3400
+Karnataka,Bangalore,Wheat,Local,24-12-2024,2500,3000,2700
+Karnataka,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,24-12-2024,8500,8800,8650
+Karnataka,Bowenpally,Yam (Ratalu),Other,24-12-2024,9000,10500,9750
+Kerala,Harappana Halli,Alasande Gram,Alasande Gram,24-12-2024,2000,3000,2600
+Kerala,North Paravur,Alsandikai,Alsandikai,24-12-2024,7500,8000,7800
+Kerala,Nedumpaikulam  VFPCK,Amaranthus,Amaranth Greens-Organic,24-12-2024,400,1700,800
+Kerala,Palakkad,Amaranthus,Amaranthus,24-12-2024,1600,2000,1800
+Kerala,Pattambi,Amaranthus,Other,24-12-2024,1600,1800,1700
+Kerala,Kottakkal,Amaranthus,Amaranthus,24-12-2024,2000,3500,2800
+Kerala,North Paravur,Amaranthus,Amaranthus,24-12-2024,2000,2400,2200
+Kerala,Perambra,Amaranthus,Amaranthus,24-12-2024,2000,3000,2500
+Kerala,Mukkom,Amaranthus,Amaranthus,24-12-2024,2200,2500,2400
+Kerala,Ranniangadi,Amaranthus,Amaranthus,24-12-2024,2230,2630,2430
+Kerala,Neyyatinkara,Amaranthus,Amaranthus,24-12-2024,2800,3200,3000
+Kerala,Manjeswaram,Amaranthus,Amaranthus,24-12-2024,3500,4500,4100
+Kerala,Pothencode,Amaranthus,Other,24-12-2024,3500,4300,4000
+Kerala,Kallachi,Amaranthus,Amaranthus,24-12-2024,3600,3800,3700
+Kerala,Palakkad,Amaranthus,Other,24-12-2024,3700,3900,3800
+Kerala,Kondotty,Amaranthus,Other,24-12-2024,4000,5000,4600
+Kerala,Parassala,Amaranthus,Amaranthus,24-12-2024,4000,4800,4800
+Kerala,Kothamangalam,Amaranthus,Other,24-12-2024,4500,5000,4800
+Kerala,Ernakulam,Amaranthus,Amaranthus,24-12-2024,4800,5000,4900
+Kerala,Quilandy,Amaranthus,Other,24-12-2024,4800,5000,4900
+Kerala,Harippad,Amaranthus,Other,24-12-2024,5000,6000,5600
+Kerala,Perumbavoor,Amaranthus,Amaranthus,24-12-2024,5800,6200,6000
+Kerala,Kayamkulam,Amaranthus,Other,24-12-2024,6400,6600,6500
+Kerala,Kuttoor,Amaranthus,Amaranthus,24-12-2024,6400,6600,6500
+Kerala,Payyannur,Amaranthus,Other,24-12-2024,7000,16000,10000
+Kerala,Neeleswaram,Amaranthus,Other,24-12-2024,30000,35000,31000
+Kerala,Kottakkal,Amla(Nelli Kai),Other,24-12-2024,3000,4000,3500
+Kerala,Kondotty,Amla(Nelli Kai),Other,24-12-2024,3300,3500,3400
+Kerala,North Paravur,Amla(Nelli Kai),Amla,24-12-2024,3500,4000,3800
+Kerala,Kayamkulam,Amphophalus,Other,24-12-2024,2000,2200,2100
+Kerala,Kuruppanthura,Amphophalus,Amphophalus,24-12-2024,2500,3500,3000
+Kerala,Quilandy,Amphophalus,Other,24-12-2024,2500,2700,2600
+Kerala,Kallachi,Amphophalus,Amphophalus,24-12-2024,2900,3100,3000
+Kerala,Chengannur,Amphophalus,Other,24-12-2024,3000,3500,3000
+Kerala,Kanjirappally,Amphophalus,Other,24-12-2024,3000,4000,3500
+Kerala,Mukkom,Amphophalus,Amphophalus,24-12-2024,3800,4100,4000
+Kerala,Perambra,Amphophalus,Amphophalus,24-12-2024,4000,5000,4500
+Kerala,Kondotty,Amphophalus,Other,24-12-2024,5000,5200,5100
+Kerala,Neeleswaram,Amphophalus,Other,24-12-2024,5000,6000,5500
+Kerala,Pothencode,Amphophalus,Other,24-12-2024,5000,6000,5600
+Kerala,Mannar,Amphophalus,Other,24-12-2024,5400,6000,6000
+Kerala,Harippad,Amphophalus,Other,24-12-2024,5600,6000,5800
+Kerala,North Paravur,Amphophalus,Amphophalus,24-12-2024,6600,7000,6800
+Kerala,Ernakulam,Amphophalus,Amphophalus,24-12-2024,7400,7600,7500
+Kerala,Kottakkal,Amphophalus,Other,24-12-2024,8000,8000,7500
+Kerala,Neyyatinkara,Amphophalus,Amphophalus,24-12-2024,14600,15000,14800
+Kerala,Kottakkal,Amranthas Red,Chawli Lal,24-12-2024,1700,1900,1800
+Kerala,Gaddiannaram,Apple,Simla,24-12-2024,1200,1400,1300
+Kerala,Kottakkal,Apple,Other,24-12-2024,5800,6000,5900
+Kerala,Kondotty,Apple,Other,24-12-2024,10000,12000,11100
+Kerala,Mukkom,Apple,Other,24-12-2024,50000,50080,50040
+Kerala,Payyannur,Arecanut(Betelnut/Supari),Other,24-12-2024,3000,4000,3500
+Kerala,Neeleswaram,Arecanut(Betelnut/Supari),Other,24-12-2024,5000,6000,5200
+Kerala,Pavagada,Arecanut(Betelnut/Supari),Red,24-12-2024,6000,7000,6500
+Kerala,Perumbavoor,Arecanut(Betelnut/Supari),Supari,24-12-2024,12500,13500,13000
+Kerala,Neeleswaram,Arhar (Tur/Red Gram)(Whole),Other,24-12-2024,3000,4000,3500
+Kerala,Lingasugur,Arhar (Tur/Red Gram)(Whole),Arhar (Whole),24-12-2024,4000,5000,4509
+Kerala,Narayanpet,Arhar (Tur/Red Gram)(Whole),Local,24-12-2024,4000,6000,5000
+Kerala,Kustagi,Arhar (Tur/Red Gram)(Whole),Red,24-12-2024,5200,5800,5600
+Kerala,Shimoga,Arhar Dal(Tur Dal),Arhar Dal(Tur),24-12-2024,4500,5000,4600
+Kerala,Nedumpaikulam  VFPCK,Ashgourd,Ashgourd,24-12-2024,800,2500,1800
+Kerala,Perumbavoor,Ashgourd,Ashgourd,24-12-2024,2100,2300,2200
+Kerala,Koduvayoor,Ashgourd,Other,24-12-2024,2500,2500,2500
+Kerala,Mannar,Ashgourd,Other,24-12-2024,2600,3000,2800
+Kerala,Kothamangalam,Ashgourd,Other,24-12-2024,2800,3000,2900
+Kerala,Ramanagara,Ashgourd,Ashgourd,24-12-2024,3000,3400,3200
+Kerala,Payyannur,Ashgourd,Other,24-12-2024,3500,5000,4200
+Kerala,Palakkad,Ashgourd,Ashgourd,24-12-2024,3600,3800,3700
+Kerala,Ranniangadi,Ashgourd,Ashgourd,24-12-2024,3600,4000,3800
+Kerala,Mazhuvannur VFPCK,Ashgourd,Ashgourd,24-12-2024,3800,4000,3800
+Kerala,North Paravur,Ashgourd,Ashgourd,24-12-2024,3800,4200,4000
+Kerala,Pattambi,Ashgourd,Other,24-12-2024,3900,4200,4000
+Kerala,Pothencode,Ashgourd,Ashgourd,24-12-2024,4000,5000,4500
+Kerala,Kottakkal,Ashgourd,Other,24-12-2024,4800,5000,4800
+Kerala,Kondotty,Ashgourd,Other,24-12-2024,5000,5500,5200
+Kerala,Quilandy,Ashgourd,Other,24-12-2024,5500,5800,5600
+Kerala,Chengannur,Ashgourd,Other,24-12-2024,6000,6500,6000
+Kerala,Kayamkulam,Ashgourd,Other,24-12-2024,6000,6200,6100
+Kerala,Mukkom,Ashgourd,Other,24-12-2024,6000,6500,6000
+Kerala,Harippad,Ashgourd,Other,24-12-2024,6300,7000,6700
+Kerala,Ernakulam,Ashgourd,Ashgourd,24-12-2024,6500,7000,6800
+Kerala,Kallachi,Ashgourd,Ashgourd,24-12-2024,6500,6700,6600
+Kerala,Manjeswaram,Ashgourd,Ashgourd,24-12-2024,6500,7500,7100
+Kerala,Ettumanoor,Ashgourd,Other,24-12-2024,6700,7600,7000
+Kerala,Kuruppanthura,Ashgourd,Ashgourd,24-12-2024,7000,8000,7200
+Kerala,Kalpetta,Ashgourd,Other,24-12-2024,7100,7300,7200
+Kerala,Kuttoor,Ashgourd,Ashgourd,24-12-2024,7400,7600,7500
+Kerala,Perambra,Ashgourd,Other,24-12-2024,8000,9000,8500
+Kerala,Gudimalkapur,Astera,Astera,24-12-2024,2500,2900,2700
+Kerala,Lingasugur,Bajra(Pearl Millet/Cumbu),Other,24-12-2024,3600,4500,4000
+Kerala,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,24-12-2024,13000,14000,13500
+Kerala,Mazhuvannur VFPCK,Banana,Poovan,24-12-2024,1000,1200,1100
+Kerala,Kallachi,Banana,Rasakathai,24-12-2024,1100,1300,1200
+Kerala,Koduvayoor,Banana,Palayamthodan,24-12-2024,1200,1200,1200
+Kerala,Mazhuvannur VFPCK,Banana,Palayamthodan,24-12-2024,1500,1600,1600
+Kerala,Payyannur,Banana,Other,24-12-2024,1600,2000,1900
+Kerala,Ernakulam,Banana,Palayamthodan,24-12-2024,1800,2000,1900
+Kerala,Mazhuvannur VFPCK,Banana,Nendra Bale,24-12-2024,2000,2500,2300
+Kerala,Pattambi,Banana,Palayamthodan,24-12-2024,2295,2300,2300
+Kerala,Payyannur,Banana,Other,24-12-2024,2300,3000,2600
+Kerala,Ravulapelem,Banana,Karpura,24-12-2024,2370,2770,2570
+Kerala,Parassala,Banana,Nendra Bale,24-12-2024,2400,3000,3000
+Kerala,Parassala,Banana,Rasakathai,24-12-2024,2400,2500,2500
+Kerala,Kuriem  VFPCK,Banana,Nendra Bale,24-12-2024,2500,3200,2900
+Kerala,Puthur  VFPCK,Banana,Robusta,24-12-2024,2700,3000,2800
+Kerala,Kuriem  VFPCK,Banana,Poovan,24-12-2024,2800,6700,6100
+Kerala,Palakkad,Banana,Poovan,24-12-2024,2800,3000,2900
+Kerala,Punalur VFPCK,Banana,Palayamthodan,24-12-2024,2800,3500,3000
+Kerala,Ravulapelem,Banana,Desi(Bontha),24-12-2024,2800,3000,2900
+Kerala,Harippad,Banana,Nendra Bale,24-12-2024,3000,3500,3200
+Kerala,Koduvayoor,Banana,Poovan,24-12-2024,3000,3600,3500
+Kerala,Kuriem  VFPCK,Banana,Robusta,24-12-2024,3000,4000,3500
+Kerala,Palakkad,Banana,Nendra Bale,24-12-2024,3300,3500,3400
+Kerala,Kallachi,Banana,Nendra Bale,24-12-2024,3500,4000,3500
+Kerala,Mazhuvannur VFPCK,Banana,Robusta,24-12-2024,3500,4000,3600
+Kerala,Palakkad,Banana,Palayamthodan,24-12-2024,3500,3500,3500
+Kerala,Kuttoor,Banana,Nendra Bale,24-12-2024,3600,3800,3700
+Kerala,Ravulapelem,Banana,Chakkarakeli(Red),24-12-2024,3600,4000,3800
+Kerala,Malayattoor  VFPCK,Banana,Nendra Bale,24-12-2024,3700,3900,3800
+Kerala,Kallachi,Banana,Palayamthodan,24-12-2024,3800,4100,4000
+Kerala,Ravulapelem,Banana,Amruthapani,24-12-2024,3870,4270,4070
+Kerala,Kuriem  VFPCK,Banana,Palayamthodan,24-12-2024,4000,6000,5000
+Kerala,Payyannur,Banana,Other,24-12-2024,4000,4600,4400
+Kerala,Perumbavoor,Banana,Palayamthodan,24-12-2024,4000,4200,4100
+Kerala,Kothamangalam,Banana,Palayamthodan,24-12-2024,4366,4766,4566
+Kerala,Kayamkulam,Banana,Palayamthodan,24-12-2024,4400,4600,4500
+Kerala,Ravulapelem,Banana,Bhushavali(Pacha),24-12-2024,4400,6000,6000
+Kerala,Kanjirappally,Banana,Banana - Ripe,24-12-2024,4700,5500,5000
+Kerala,Malayattoor  VFPCK,Banana,Palayamthodan,24-12-2024,5000,5200,5100
+Kerala,Punalur VFPCK,Banana,Poovan,24-12-2024,5000,5500,5500
+Kerala,Ravulapelem,Banana,Chakkarakeli(White),24-12-2024,5000,5500,5200
+Kerala,Malayattoor  VFPCK,Banana,Robusta,24-12-2024,5400,5600,5500
+Kerala,Kayamkulam,Banana,Nendra Bale,24-12-2024,5500,5700,5600
+Kerala,Koduvayoor,Banana,Nendra Bale,24-12-2024,5500,5800,5800
+Kerala,Palakkad,Banana,Nendra Bale,24-12-2024,5500,6200,6000
+Kerala,Kuttoor,Banana,Other,24-12-2024,5600,5800,5700
+Kerala,Kothamangalam,Banana,Poovan,24-12-2024,6000,6000,6000
+Kerala,Parassala,Banana,Red Banana,24-12-2024,6000,8000,8000
+Kerala,Parassala,Banana,Palayamthodan,24-12-2024,6000,6500,6400
+Kerala,Malayattoor  VFPCK,Banana,Poovan,24-12-2024,6400,6600,6500
+Kerala,Puthur  VFPCK,Banana,Nendra Bale,24-12-2024,6700,6800,6800
+Kerala,Kuttoor,Banana,Palayamthodan,24-12-2024,6800,7000,6900
+Kerala,Kottakkal,Banana,Nendra Bale,24-12-2024,7000,7800,7500
+Kerala,Punalur VFPCK,Banana,Banana - Ripe,24-12-2024,7500,8000,7800
+Kerala,Punalur VFPCK,Banana,Robusta,24-12-2024,7700,8000,7800
+Kerala,Ettumanoor,Banana,Banana - Ripe,24-12-2024,8400,8800,8600
+Kerala,Neeleswaram,Banana,Other,24-12-2024,9000,10000,9500
+Kerala,Punalur VFPCK,Banana,Red Banana,24-12-2024,20000,25000,23000
+Kerala,Ernakulam,Banana,Nendra Bale,24-12-2024,21000,22000,21500
+Kerala,Mukkom,Banana,Other,24-12-2024,22500,22580,22540
+Kerala,Pattambi,Banana,Nendra Bale,24-12-2024,32500,32580,32540
+Kerala,Mookkannur  VFPCK,Banana,Nendra Bale,24-12-2024,55000,55080,55040
+Kerala,Kanjirappally,Banana - Green,Banana - Green,24-12-2024,1400,4200,3000
+Kerala,Koduvayoor,Banana - Green,Other,24-12-2024,1800,2300,2000
+Kerala,Kothamangalam,Banana - Green,Other,24-12-2024,1830,2230,2030
+Kerala,Kalpetta,Banana - Green,Other,24-12-2024,2000,4000,3000
+Kerala,Pothencode,Banana - Green,Other,24-12-2024,2000,2400,2200
+Kerala,Manjeswaram,Banana - Green,Other,24-12-2024,2800,3200,3000
+Kerala,Mannar,Banana - Green,Other,24-12-2024,3000,4000,3500
+Kerala,Quilandy,Banana - Green,Other,24-12-2024,3000,3200,3100
+Kerala,Ettumanoor,Banana - Green,Banana - Green,24-12-2024,3200,3500,3300
+Kerala,Maloor VFPCK,Banana - Green,Banana - Green,24-12-2024,3400,3600,3500
+Kerala,Chengannur,Banana - Green,Banana - Green,24-12-2024,4000,5000,4500
+Kerala,Kannur,Banana - Green,Other,24-12-2024,4000,4200,4100
+Kerala,Kuruppanthura,Banana - Green,Banana - Green,24-12-2024,4500,5500,5000
+Kerala,Neeleswaram,Banana - Green,Other,24-12-2024,4500,6000,4700
+Kerala,Kayamkulam,Banana - Green,Other,24-12-2024,4600,5000,4800
+Kerala,Neyyatinkara,Banana - Green,Banana - Green,24-12-2024,4600,4800,4700
+Kerala,Puthenvelikkara  VFPCK,Banana - Green,Banana - Green,24-12-2024,4800,5100,5000
+Kerala,Kondotty,Banana - Green,Other,24-12-2024,5800,6000,5900
+Kerala,Pattiyam  VFPCK,Banana - Green,Banana - Green,24-12-2024,6000,7000,6500
+Kerala,Gundlupet,Banana - Green,Banana - Green,24-12-2024,6600,8000,7400
+Kerala,Harippad,Banana - Green,Other,24-12-2024,7000,7500,7200
+Kerala,North Paravur,Banana - Green,Banana - Green,24-12-2024,8000,10000,9000
+Kerala,Mukkom,Banana - Green,Banana - Green,24-12-2024,10000,10080,10040
+Kerala,Perumbavoor,Banana - Green,Banana - Green,24-12-2024,10000,10000,10000
+Kerala,L B Nagar,Banana - Green,Banana - Green,24-12-2024,12000,20000,16000
+Kerala,Kottakkal,Banana - Green,Banana - Green,24-12-2024,45000,45080,45040
+Kerala,Ramanagara,Beans,Beans (Whole),24-12-2024,4000,4400,4200
+Kerala,Shimoga,Beans,Beans (Whole),24-12-2024,4000,4500,4000
+Kerala,Parassala,Beans,Beans (Whole),24-12-2024,4500,4800,4600
+Kerala,Chintamani,Beans,Beans (Whole),24-12-2024,5000,6000,5500
+Kerala,Gundlupet,Beans,Beans (Whole),24-12-2024,5000,5400,5200
+Kerala,Chikkamagalore,Beans,Beans (Whole),24-12-2024,5700,6700,6000
+Kerala,Malur,Beans,Beans (Whole),24-12-2024,6300,6500,6400
+Kerala,Kottakkal,Beans,Other,24-12-2024,50000,50080,50040
+Kerala,Manjeswaram,Beetroot,Beetroot,24-12-2024,800,1200,1100
+Kerala,Koduvayoor,Beetroot,Other,24-12-2024,1200,1500,1500
+Kerala,Chelakkara,Beetroot,Other,24-12-2024,1800,2200,1900
+Kerala,Neyyatinkara,Beetroot,Beetroot,24-12-2024,1900,2100,2000
+Kerala,Mukkom,Beetroot,Beetroot,24-12-2024,2000,2400,2000
+Kerala,Perambra,Beetroot,Other,24-12-2024,2500,3500,3000
+Kerala,Perumbavoor,Beetroot,Beetroot,24-12-2024,3000,4000,3500
+Kerala,Ramanagara,Beetroot,Beetroot,24-12-2024,3000,3400,3200
+Kerala,Pothencode,Beetroot,Other,24-12-2024,4000,5000,4500
+Kerala,Chengannur,Beetroot,Beetroot,24-12-2024,4500,5500,5000
+Kerala,Harippad,Beetroot,Other,24-12-2024,4500,5000,4800
+Kerala,Kallachi,Beetroot,Beetroot,24-12-2024,4500,5000,4800
+Kerala,L B Nagar,Beetroot,Beetroot,24-12-2024,4500,5000,4800
+Kerala,Ettumanoor,Beetroot,Other,24-12-2024,4800,5500,5000
+Kerala,Mannar,Beetroot,Other,24-12-2024,5500,6000,5800
+Kerala,Kottakkal,Beetroot,Beetroot,24-12-2024,5600,7000,6500
+Kerala,Quilandy,Beetroot,Other,24-12-2024,5700,5900,5800
+Kerala,Kanjirappally,Beetroot,Beetroot,24-12-2024,6000,7000,6500
+Kerala,Kondotty,Beetroot,Other,24-12-2024,6000,8000,6500
+Kerala,Neeleswaram,Beetroot,Other,24-12-2024,6000,8000,6500
+Kerala,Palakkad,Beetroot,Beetroot,24-12-2024,6000,6500,6200
+Kerala,Pattambi,Beetroot,Other,24-12-2024,6000,6200,6100
+Kerala,Chintamani,Beetroot,Beetroot,24-12-2024,6500,6500,6500
+Kerala,Kayamkulam,Beetroot,Other,24-12-2024,7800,8200,8000
+Kerala,North Paravur,Beetroot,Beetroot,24-12-2024,8000,8400,8200
+Kerala,Shimoga,Beetroot,Beetroot,24-12-2024,22500,22580,22540
+Kerala,Parassala,Beetroot,Beetroot,24-12-2024,25000,26000,26000
+Kerala,Kuruppanthura,Beetroot,Beetroot,24-12-2024,25200,27000,26000
+Kerala,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,24-12-2024,5800,6000,5800
+Kerala,Shimoga,Bengal Gram(Gram)(Whole),Jawari/Local,24-12-2024,2800,3000,2800
+Kerala,Pavagada,Bengal Gram(Gram)(Whole),Average (Whole),24-12-2024,5500,6500,6000
+Kerala,Palakkad,Bengal Gram(Gram)(Whole),Average (Whole),24-12-2024,12800,13000,12900
+Kerala,Gaddiannaram,Ber(Zizyphus/Borehannu),Ber(Zizyphus),24-12-2024,2200,2500,2500
+Kerala,Nedumpaikulam  VFPCK,Bhindi(Ladies Finger),Bhindi,24-12-2024,600,3000,1600
+Kerala,Kanjirappally,Bhindi(Ladies Finger),Bhindi,24-12-2024,1000,3000,1500
+Kerala,Kuruppanthura,Bhindi(Ladies Finger),Bhindi,24-12-2024,1500,2600,2400
+Kerala,Palakkad,Bhindi(Ladies Finger),Bhindi,24-12-2024,1500,1800,1600
+Kerala,Manjeswaram,Bhindi(Ladies Finger),Bhindi,24-12-2024,1600,2000,1800
+Kerala,Neeleswaram,Bhindi(Ladies Finger),Bhindi,24-12-2024,1700,4200,3300
+Kerala,Ramanagara,Bhindi(Ladies Finger),Bhindi,24-12-2024,2500,2900,2700
+Kerala,Kannur,Bhindi(Ladies Finger),Bhindi,24-12-2024,2800,3000,2900
+Kerala,Koduvayoor,Bhindi(Ladies Finger),Other,24-12-2024,2900,3100,3000
+Kerala,Harippad,Bhindi(Ladies Finger),Other,24-12-2024,3000,3500,3200
+Kerala,Karimnagar,Bhindi(Ladies Finger),Bhindi,24-12-2024,3000,3600,3300
+Kerala,Mannar,Bhindi(Ladies Finger),Other,24-12-2024,3000,3500,3000
+Kerala,Perambra,Bhindi(Ladies Finger),Other,24-12-2024,3000,5200,4300
+Kerala,Parassala,Bhindi(Ladies Finger),Other,24-12-2024,3200,3500,3300
+Kerala,Kuttoor,Bhindi(Ladies Finger),Bhindi,24-12-2024,3600,3800,3700
+Kerala,Pothencode,Bhindi(Ladies Finger),Other,24-12-2024,3800,4000,3900
+Kerala,Quilandy,Bhindi(Ladies Finger),Other,24-12-2024,4200,4200,4200
+Kerala,Kalpetta,Bhindi(Ladies Finger),Other,24-12-2024,4500,4700,4600
+Kerala,Ettumanoor,Bhindi(Ladies Finger),Other,24-12-2024,5000,6000,5800
+Kerala,Kondotty,Bhindi(Ladies Finger),Other,24-12-2024,5000,5000,5000
+Kerala,Ernakulam,Bhindi(Ladies Finger),Bhindi,24-12-2024,5400,5600,5500
+Kerala,North Paravur,Bhindi(Ladies Finger),Bhindi,24-12-2024,5800,6500,6000
+Kerala,Kothamangalam,Bhindi(Ladies Finger),Other,24-12-2024,6000,6500,6200
+Kerala,L B Nagar,Bhindi(Ladies Finger),Bhindi,24-12-2024,6000,6000,6000
+Kerala,Chengannur,Bhindi(Ladies Finger),Other,24-12-2024,6100,7000,6500
+Kerala,Neyyatinkara,Bhindi(Ladies Finger),Bhindi,24-12-2024,6500,6700,6600
+Kerala,Kayamkulam,Bhindi(Ladies Finger),Other,24-12-2024,6800,7000,6900
+Kerala,Kottakkal,Bhindi(Ladies Finger),Other,24-12-2024,7000,8000,7500
+Kerala,Chintamani,Bhindi(Ladies Finger),Bhindi,24-12-2024,9000,10000,9500
+Kerala,Pattambi,Bhindi(Ladies Finger),Other,24-12-2024,10500,10580,10540
+Kerala,Perumbavoor,Bhindi(Ladies Finger),Bhindi,24-12-2024,14000,15000,14500
+Kerala,Mukkom,Bhindi(Ladies Finger),Bhindi,24-12-2024,22300,22400,22400
+Kerala,Shimoga,Bhindi(Ladies Finger),Bhindi,24-12-2024,45000,45080,45040
+Kerala,Kothamangalam,Bitter gourd,Other,24-12-2024,2000,2500,2400
+Kerala,Perambra,Bitter gourd,Other,24-12-2024,2000,3000,2500
+Kerala,Kanjirappally,Bitter gourd,Bitter Gourd,24-12-2024,2200,2800,2500
+Kerala,Chengannur,Bitter gourd,Other,24-12-2024,3000,5000,4000
+Kerala,Kalpetta,Bitter gourd,Other,24-12-2024,3000,4000,3500
+Kerala,Ramanagara,Bitter gourd,Bitter Gourd,24-12-2024,3000,4000,3600
+Kerala,Quilandy,Bitter gourd,Other,24-12-2024,3300,3500,3500
+Kerala,Ettumanoor,Bitter gourd,Other,24-12-2024,3500,4000,3800
+Kerala,Kuttoor,Bitter gourd,Bitter Gourd,24-12-2024,3800,4200,4000
+Kerala,Palakkad,Bitter gourd,Bitter Gourd,24-12-2024,3800,5000,4500
+Kerala,Karimnagar,Bitter gourd,Bitter Gourd,24-12-2024,4000,5000,4500
+Kerala,Neeleswaram,Bitter gourd,Other,24-12-2024,4200,5200,4700
+Kerala,Harippad,Bitter gourd,Other,24-12-2024,4300,5000,4700
+Kerala,Kannur,Bitter gourd,Bitter Gourd,24-12-2024,4700,4900,4800
+Kerala,Kayamkulam,Bitter gourd,Other,24-12-2024,4800,5000,4900
+Kerala,Mannar,Bitter gourd,Other,24-12-2024,4800,6000,6000
+Kerala,Ernakulam,Bitter gourd,Bitter Gourd,24-12-2024,5000,5400,5200
+Kerala,Kuruppanthura,Bitter gourd,Bitter Gourd,24-12-2024,5000,6000,5500
+Kerala,Mazhuvannur VFPCK,Bitter gourd,Bitter Gourd,24-12-2024,5400,6000,5600
+Kerala,Pattambi,Bitter gourd,Other,24-12-2024,5400,6000,5700
+Kerala,Pothencode,Bitter gourd,Other,24-12-2024,5500,6000,5800
+Kerala,L B Nagar,Bitter gourd,Bitter Gourd,24-12-2024,5800,6600,6000
+Kerala,Mukkom,Bitter gourd,Bitter Gourd,24-12-2024,5900,6100,6000
+Kerala,Kondotty,Bitter gourd,Other,24-12-2024,6000,7000,6500
+Kerala,North Paravur,Bitter gourd,Bitter Gourd,24-12-2024,6200,6600,6400
+Kerala,Manjeswaram,Bitter gourd,Bitter Gourd,24-12-2024,6400,7500,7000
+Kerala,Neyyatinkara,Bitter gourd,Bitter Gourd,24-12-2024,6600,7000,6800
+Kerala,Perumbavoor,Bitter gourd,Bitter Gourd,24-12-2024,7000,8000,7200
+Kerala,Kottakkal,Bitter gourd,Bitter Gourd,24-12-2024,22000,22700,22500
+Kerala,Kallachi,Bitter gourd,Bitter Gourd,24-12-2024,50000,50080,50040
+Kerala,Shimoga,Bitter gourd,Bitter Gourd,24-12-2024,60000,60080,60040
+Kerala,Neeleswaram,Black Gram (Urd Beans)(Whole),Other,24-12-2024,2000,2500,2200
+Kerala,Palakkad,Black Gram (Urd Beans)(Whole),Black Gram (Whole),24-12-2024,2900,3200,3000
+Kerala,Palakkad,Black Gram (Urd Beans)(Whole),Black Gram Dal,24-12-2024,5200,6000,5500
+Kerala,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,24-12-2024,4000,4500,4200
+Kerala,Payyannur,Black pepper,Other,24-12-2024,2000,4000,3000
+Kerala,Perumbavoor,Black pepper,Garbled,24-12-2024,3000,4000,3500
+Kerala,Kannur,Black pepper,Other,24-12-2024,3900,4100,4000
+Kerala,Kalpetta,Black pepper,Other,24-12-2024,4500,4700,4600
+Kerala,Irikkur,Black pepper,Other,24-12-2024,5000,5200,5100
+Kerala,North Paravur,Black pepper,Garbled,24-12-2024,5800,6400,6000
+Kerala,Chengannur,Bottle gourd,Other,24-12-2024,1500,2500,2000
+Kerala,Kottakkal,Bottle gourd,Other,24-12-2024,2000,2200,2100
+Kerala,Palakkad,Bottle gourd,Bottle Gourd,24-12-2024,3000,3400,3200
+Kerala,Mazhuvannur VFPCK,Bottle gourd,Bottle Gourd,24-12-2024,3800,4000,3900
+Kerala,Quilandy,Bottle gourd,Other,24-12-2024,3900,4100,4000
+Kerala,Manjeswaram,Bottle gourd,Bottle Gourd,24-12-2024,4300,5000,4700
+Kerala,Mukkom,Bottle gourd,Bottle Gourd,24-12-2024,4500,5500,5000
+Kerala,Kallachi,Bottle gourd,Bottle Gourd,24-12-2024,6000,6200,6000
+Kerala,Harippad,Bottle gourd,Other,24-12-2024,6500,8000,7000
+Kerala,Kondotty,Bottle gourd,Other,24-12-2024,6500,6900,6700
+Kerala,Mahboob Manison,Bottle gourd,Bottle Gourd,24-12-2024,6600,7000,6800
+Kerala,Pattambi,Bottle gourd,Other,24-12-2024,7500,8000,7700
+Kerala,Koduvayoor,Bottle gourd,Other,24-12-2024,8000,8500,8300
+Kerala,North Paravur,Bottle gourd,Bottle Gourd,24-12-2024,8000,9000,8600
+Kerala,Perumbavoor,Bottle gourd,Other,24-12-2024,9000,10000,9200
+Kerala,L B Nagar,Bottle gourd,Bottle Gourd,24-12-2024,22000,23000,22500
+Kerala,Mahboob Manison,Brinjal,Arkasheela Mattigulla,24-12-2024,1500,2000,1700
+Kerala,Ramanagara,Brinjal,Round,24-12-2024,1500,2000,1800
+Kerala,Shimoga,Brinjal,Brinjal,24-12-2024,1500,2500,2200
+Kerala,Karimnagar,Brinjal,Brinjal,24-12-2024,2300,2600,2500
+Kerala,Quilandy,Brinjal,Other,24-12-2024,2400,2600,2500
+Kerala,Chintamani,Brinjal,Brinjal,24-12-2024,2600,2800,2700
+Kerala,Neeleswaram,Brinjal,Round/Long,24-12-2024,2600,3600,3000
+Kerala,Kayamkulam,Brinjal,Other,24-12-2024,2700,2900,2800
+Kerala,Kanjirappally,Brinjal,Brinjal,24-12-2024,3000,4000,3200
+Kerala,Pothencode,Brinjal,Other,24-12-2024,3000,4000,3600
+Kerala,Palakkad,Brinjal,Brinjal,24-12-2024,3300,4000,3700
+Kerala,Manjeswaram,Brinjal,Brinjal,24-12-2024,3500,3500,3500
+Kerala,Ramanagara,Brinjal,Brinjal,24-12-2024,3700,4500,4200
+Kerala,Kuttoor,Brinjal,Brinjal,24-12-2024,3800,4200,4000
+Kerala,Kalpetta,Brinjal,Other,24-12-2024,4000,5000,4500
+Kerala,L B Nagar,Brinjal,Arkasheela Mattigulla,24-12-2024,4000,5000,4500
+Kerala,Parassala,Brinjal,Round,24-12-2024,4200,4500,4300
+Kerala,Koduvayoor,Brinjal,Other,24-12-2024,4300,4700,4500
+Kerala,Mukkom,Brinjal,Brinjal,24-12-2024,4400,4600,4500
+Kerala,Harippad,Brinjal,Other,24-12-2024,5000,7000,6500
+Kerala,Perambra,Brinjal,Other,24-12-2024,5000,6000,5200
+Kerala,Mannar,Brinjal,Other,24-12-2024,5100,5500,5300
+Kerala,Chengannur,Brinjal,Brinjal,24-12-2024,5700,5900,5800
+Kerala,Kuruppanthura,Brinjal,Brinjal,24-12-2024,6000,16000,7000
+Kerala,North Paravur,Brinjal,Arkasheela Mattigulla,24-12-2024,6000,7000,6400
+Kerala,Perumbavoor,Brinjal,Brinjal,24-12-2024,6000,7000,6500
+Kerala,Chevella,Brinjal,Other,24-12-2024,6200,7000,6800
+Kerala,Pattambi,Brinjal,Other,24-12-2024,6300,7000,6500
+Kerala,Neyyatinkara,Brinjal,Brinjal,24-12-2024,6500,6700,6600
+Kerala,Kondotty,Brinjal,Other,24-12-2024,6700,8000,7400
+Kerala,Ettumanoor,Brinjal,Other,24-12-2024,7000,7200,7100
+Kerala,Ernakulam,Brinjal,Brinjal,24-12-2024,7500,7800,7600
+Kerala,Kothamangalam,Brinjal,Other,24-12-2024,7500,8000,7500
+Kerala,Kottakkal,Brinjal,Other,24-12-2024,7500,8000,7800
+Kerala,Kallachi,Brinjal,Brinjal,24-12-2024,40000,40080,40040
+Kerala,Chintamani,Bunch Beans,Bunch Beans,24-12-2024,29000,30000,29500
+Kerala,Pattambi,Cabbage,Other,24-12-2024,2000,2500,2000
+Kerala,Mannar,Cabbage,Other,24-12-2024,2400,3000,3000
+Kerala,Karimnagar,Cabbage,Cabbage,24-12-2024,2500,3200,3000
+Kerala,Harippad,Cabbage,Other,24-12-2024,2600,3000,2800
+Kerala,Quilandy,Cabbage,Other,24-12-2024,2800,3000,2900
+Kerala,Kothamangalam,Cabbage,Other,24-12-2024,3200,3500,3300
+Kerala,Palakkad,Cabbage,Cabbage,24-12-2024,3300,3500,3400
+Kerala,Chelakkara,Cabbage,Other,24-12-2024,3400,3700,3600
+Kerala,Kondotty,Cabbage,Other,24-12-2024,3400,3600,3500
+Kerala,North Paravur,Cabbage,Cabbage,24-12-2024,3500,3800,3600
+Kerala,Pothencode,Cabbage,Other,24-12-2024,3600,4000,3800
+Kerala,Malur,Cabbage,Cabbage,24-12-2024,3800,4000,3900
+Kerala,Kottakkal,Cabbage,Other,24-12-2024,4100,4300,4200
+Kerala,Neyyatinkara,Cabbage,Other,24-12-2024,4200,4600,4400
+Kerala,Ettumanoor,Cabbage,Other,24-12-2024,5000,5500,5300
+Kerala,Manjeswaram,Cabbage,Cabbage,24-12-2024,5000,6000,5600
+Kerala,Chevella,Cabbage,Cabbage,24-12-2024,5500,6500,6000
+Kerala,Kanjirappally,Cabbage,Cabbage,24-12-2024,5500,6500,6000
+Kerala,Neeleswaram,Cabbage,Other,24-12-2024,5500,6500,6000
+Kerala,Parassala,Cabbage,Cabbage,24-12-2024,5500,5809,5600
+Kerala,Mahboob Manison,Cabbage,Cabbage,24-12-2024,5600,5800,5700
+Kerala,Mukkom,Cabbage,Cabbage,24-12-2024,6000,6500,6000
+Kerala,Koduvayoor,Cabbage,Other,24-12-2024,6800,7200,7000
+Kerala,Chengannur,Cabbage,Other,24-12-2024,7000,7500,7000
+Kerala,Perumbavoor,Cabbage,Cabbage,24-12-2024,7300,7500,7400
+Kerala,L B Nagar,Cabbage,Cabbage,24-12-2024,7500,8000,7800
+Kerala,Ramanagara,Cabbage,Cabbage,24-12-2024,12800,14000,13500
+Kerala,Kayamkulam,Cabbage,Other,24-12-2024,14500,14800,14600
+Kerala,Kallachi,Cabbage,Cabbage,24-12-2024,22500,22580,22540
+Kerala,Perambra,Cabbage,Other,24-12-2024,27000,28000,27500
+Kerala,Kuruppanthura,Cabbage,Cabbage,24-12-2024,35500,37500,36500
+Kerala,Karimnagar,Capsicum,Capsicum,24-12-2024,2000,2600,2300
+Kerala,Chengannur,Capsicum,Other,24-12-2024,2800,3000,2900
+Kerala,Palakkad,Capsicum,Capsicum,24-12-2024,2800,3200,3000
+Kerala,Mannar,Capsicum,Other,24-12-2024,3200,3600,3400
+Kerala,Harippad,Capsicum,Other,24-12-2024,3300,4000,3700
+Kerala,Ramanagara,Capsicum,Capsicum,24-12-2024,4500,4900,4700
+Kerala,L B Nagar,Capsicum,Capsicum,24-12-2024,5500,6000,5800
+Kerala,Perambra,Capsicum,Capsicum,24-12-2024,5500,6500,6000
+Kerala,North Paravur,Capsicum,Capsicum,24-12-2024,5800,6000,5900
+Kerala,Pothencode,Capsicum,Other,24-12-2024,6600,7000,6800
+Kerala,Kottakkal,Capsicum,Other,24-12-2024,7800,8000,7800
+Kerala,Chintamani,Capsicum,Capsicum,24-12-2024,11300,11500,11400
+Kerala,Gudimalkapur,Carnation,Cornation,24-12-2024,1800,2000,1900
+Kerala,Parassala,Carrot,Carrot,24-12-2024,1200,1300,1300
+Kerala,Perambra,Carrot,Other,24-12-2024,1600,2600,2000
+Kerala,Neyyatinkara,Carrot,Other,24-12-2024,2300,2600,2500
+Kerala,North Paravur,Carrot,Carrot,24-12-2024,2400,2600,2500
+Kerala,Quilandy,Carrot,Other,24-12-2024,2400,2500,2500
+Kerala,Kothamangalam,Carrot,Other,24-12-2024,2800,2800,2800
+Kerala,Palakkad,Carrot,Carrot,24-12-2024,2800,3200,3000
+Kerala,Perumbavoor,Carrot,Carrot,24-12-2024,2800,3200,3000
+Kerala,Mahboob Manison,Carrot,Carrot,24-12-2024,3200,3400,3300
+Kerala,Koduvayoor,Carrot,Other,24-12-2024,3800,4200,4000
+Kerala,Kuruppanthura,Carrot,Carrot,24-12-2024,4000,5000,4500
+Kerala,Manjeswaram,Carrot,Carrot,24-12-2024,4000,4000,4000
+Kerala,Mannar,Carrot,Other,24-12-2024,4000,5000,4500
+Kerala,Ettumanoor,Carrot,Carrot,24-12-2024,4300,5000,4800
+Kerala,Harippad,Carrot,Other,24-12-2024,5000,6000,5500
+Kerala,Ramanagara,Carrot,Carrot,24-12-2024,5300,6000,5700
+Kerala,Chelakkara,Carrot,Other,24-12-2024,5500,6000,5800
+Kerala,Chengannur,Carrot,Other,24-12-2024,5500,6500,6000
+Kerala,Kanjirappally,Carrot,Carrot,24-12-2024,5500,7000,6000
+Kerala,Pattambi,Carrot,Carrot,24-12-2024,5500,5800,5700
+Kerala,Pothencode,Carrot,Other,24-12-2024,6400,6600,6500
+Kerala,Kallachi,Carrot,Carrot,24-12-2024,6500,6700,6600
+Kerala,Shimoga,Carrot,Carrot,24-12-2024,6500,7000,6500
+Kerala,Neeleswaram,Carrot,Other,24-12-2024,6800,7800,7200
+Kerala,Chintamani,Carrot,Carrot,24-12-2024,7000,7200,7100
+Kerala,L B Nagar,Carrot,Carrot,24-12-2024,7500,8200,8000
+Kerala,Mukkom,Carrot,Carrot,24-12-2024,8000,8600,8000
+Kerala,Kayamkulam,Carrot,Other,24-12-2024,8800,9200,9000
+Kerala,Karimnagar,Carrot,Carrot,24-12-2024,11000,12000,11500
+Kerala,Kondotty,Carrot,Other,24-12-2024,28500,28900,28700
+Kerala,Kottakkal,Carrot,Other,24-12-2024,180000,180080,180040
+Kerala,Shimoga,Cauliflower,Cauliflower,24-12-2024,2200,2500,2300
+Kerala,Kayamkulam,Cauliflower,Other,24-12-2024,3000,4000,3500
+Kerala,Kothamangalam,Cauliflower,Other,24-12-2024,3000,3200,3200
+Kerala,Chengannur,Cauliflower,Other,24-12-2024,4000,5000,4500
+Kerala,Pattambi,Cauliflower,Other,24-12-2024,4000,4200,4000
+Kerala,Kottakkal,Cauliflower,Other,24-12-2024,4200,5500,5000
+Kerala,L B Nagar,Cauliflower,Cauliflower,24-12-2024,4200,4600,4400
+Kerala,Harippad,Cauliflower,Other,24-12-2024,4300,5000,4700
+Kerala,Pothencode,Cauliflower,Other,24-12-2024,4400,4800,4600
+Kerala,Kuruppanthura,Cauliflower,Cauliflower,24-12-2024,5000,6000,5500
+Kerala,Perambra,Cauliflower,Cauliflower,24-12-2024,5000,6000,5500
+Kerala,Palakkad,Cauliflower,Cauliflower,24-12-2024,5200,5500,5300
+Kerala,Koduvayoor,Cauliflower,Other,24-12-2024,5400,5600,5500
+Kerala,Quilandy,Cauliflower,Other,24-12-2024,5500,5500,5500
+Kerala,North Paravur,Cauliflower,African Sarson,24-12-2024,6400,6600,6500
+Kerala,Chevella,Cauliflower,African Sarson,24-12-2024,7500,8500,8000
+Kerala,Perumbavoor,Cauliflower,Cauliflower,24-12-2024,9000,10000,9500
+Kerala,Kondotty,Cauliflower,Other,24-12-2024,11000,13000,12100
+Kerala,Ramanagara,Cauliflower,Cauliflower,24-12-2024,15500,17500,16600
+Kerala,Chikkamagalore,Cauliflower,Local,24-12-2024,24000,30000,25000
+Kerala,Mahboob Manison,Cauliflower,African Sarson,24-12-2024,26000,26500,26300
+Kerala,Gaddiannaram,Chikoos(Sapota),Other,24-12-2024,6200,6500,6400
+Kerala,Kottakkal,Chikoos(Sapota),Other,24-12-2024,45000,45080,45040
+Kerala,Palakkad,Chili Red,Red,24-12-2024,2000,2600,2200
+Kerala,Ramanagara,Chilly Capsicum,Chilly Capsicum,24-12-2024,2200,2600,2400
+Kerala,Chintamani,Chilly Capsicum,Chilly Capsicum,24-12-2024,4300,5000,4300
+Kerala,Palakkad,Cluster beans,Cluster Beans,24-12-2024,2400,2600,2500
+Kerala,Parassala,Cluster beans,Cluster Beans,24-12-2024,2600,2700,2700
+Kerala,Koduvayoor,Cluster beans,Other,24-12-2024,3700,4000,3800
+Kerala,Ettumanoor,Cluster beans,Other,24-12-2024,4400,4600,4500
+Kerala,Quilandy,Cluster beans,Other,24-12-2024,4500,4700,4600
+Kerala,Pothencode,Cluster beans,Other,24-12-2024,5800,6200,6000
+Kerala,Chengannur,Cluster beans,Cluster Beans,24-12-2024,6000,7000,6500
+Kerala,Kanjirappally,Cluster beans,Cluster Beans,24-12-2024,6000,7000,6500
+Kerala,Kondotty,Cluster beans,Other,24-12-2024,7000,8000,7500
+Kerala,L B Nagar,Cluster beans,Cluster Beans,24-12-2024,7000,7400,7200
+Kerala,Mahboob Manison,Cluster beans,Cluster Beans,24-12-2024,20000,20400,20200
+Kerala,Pattambi,Cluster beans,Cluster Beans,24-12-2024,30000,30080,30040
+Kerala,Neyyatinkara,Cluster beans,Other,24-12-2024,58000,60000,59000
+Kerala,Kallachi,Cluster beans,Cluster Beans,24-12-2024,60000,61000,61000
+Kerala,Perambra,Cluster beans,Other,24-12-2024,75000,100000,90000
+Kerala,Koduvayoor,Coconut,Big,24-12-2024,1400,2000,1500
+Kerala,Neeleswaram,Coconut,Other,24-12-2024,3500,4500,4000
+Kerala,Chengannur,Coconut,Big,24-12-2024,4000,4500,4000
+Kerala,Ettumanoor,Coconut,Medium,24-12-2024,5300,5500,5400
+Kerala,Kanjirappally,Coconut,Medium,24-12-2024,5600,6600,5800
+Kerala,Palakkad,Coconut,Coconut,24-12-2024,6200,6600,6500
+Kerala,Kuruppanthura,Coconut,Medium,24-12-2024,7000,8000,7200
+Kerala,North Paravur,Coconut,Big,24-12-2024,7400,7600,7500
+Kerala,Neeleswaram,Coconut Oil,Other,24-12-2024,3800,4500,4000
+Kerala,Kannur,Coconut Oil,Other,24-12-2024,3900,4100,4000
+Kerala,Kuttoor,Coconut Oil,Copra Oil,24-12-2024,5400,5600,5500
+Kerala,Payyannur,Coconut Seed,Coconut Seed,24-12-2024,2000,3000,2500
+Kerala,Mukkom,Coconut Seed,Other,24-12-2024,2200,2300,2300
+Kerala,Manjeswaram,Coconut Seed,Other,24-12-2024,2300,3500,3000
+Kerala,Kuttoor,Coconut Seed,Other,24-12-2024,2500,2700,2600
+Kerala,Chelakkara,Coconut Seed,Other,24-12-2024,6800,7300,7000
+Kerala,Perumbavoor,Coconut Seed,Coconut Seed,24-12-2024,24000,25000,24500
+Kerala,Kalpetta,Coffee,Other,24-12-2024,1700,1900,1800
+Kerala,Koduvayoor,Colacasia,Other,24-12-2024,1500,1500,1500
+Kerala,Kondotty,Colacasia,Colacasia,24-12-2024,1800,1800,1800
+Kerala,Palakkad,Colacasia,Other,24-12-2024,2200,2500,2500
+Kerala,Mannar,Colacasia,Other,24-12-2024,2300,3000,3000
+Kerala,Harippad,Colacasia,Other,24-12-2024,3000,3500,3400
+Kerala,Mutholy  VFPCK,Colacasia,Colacasia,24-12-2024,3000,4000,3500
+Kerala,Neyyatinkara,Colacasia,Colacasia,24-12-2024,3600,4000,3800
+Kerala,Chengannur,Colacasia,Colacasia,24-12-2024,4000,4500,4000
+Kerala,Kanjirappally,Colacasia,Other,24-12-2024,4000,5000,4500
+Kerala,Parassala,Colacasia,Other,24-12-2024,4800,6000,6000
+Kerala,North Paravur,Colacasia,Colacasia,24-12-2024,5000,5200,5100
+Kerala,Perumbavoor,Colacasia,Other,24-12-2024,5000,7000,5500
+Kerala,Ettumanoor,Colacasia,Other,24-12-2024,6000,6200,6100
+Kerala,Pattambi,Colacasia,Other,24-12-2024,6600,6800,6700
+Kerala,Kothamangalam,Colacasia,Other,24-12-2024,8400,9000,8600
+Kerala,Pothencode,Colacasia,Other,24-12-2024,29000,30000,29800
+Kerala,Kuruppanthura,Colacasia,Other,24-12-2024,32000,33000,32500
+Kerala,Market,Commodity,Variety,24-12-2024,2400,2509,2500
+Kerala,Payyannur,Copra,other,24-12-2024,3500,4500,4000
+Kerala,Neeleswaram,Copra,other,24-12-2024,7500,9000,8000
+Kerala,Manjeswaram,Copra,Copra,24-12-2024,8000,9000,8600
+Kerala,Quilandy,Coriander(Leaves),Other,24-12-2024,1800,2000,1900
+Kerala,North Paravur,Coriander(Leaves),Coriander,24-12-2024,7500,8000,7600
+Kerala,Shimoga,Corriander seed,Coriander Seed,24-12-2024,42500,42580,42540
+Kerala,Enkoor,Cotton,Cotton (Unginned),24-12-2024,2400,2600,2500
+Kerala,Gajwel,Cotton,Cotton (Ginned),24-12-2024,3800,4000,3900
+Kerala,Kanchekacherla,Cotton,Bunny,24-12-2024,4000,7000,6300
+Kerala,Choppadandi,Cotton,Cotton (Unginned),24-12-2024,4800,5200,5000
+Kerala,Karimnagar,Cotton,Cotton (Unginned),24-12-2024,7400,7600,7500
+Kerala,Kottakkal,Cowpea (Lobia/Karamani),Other,24-12-2024,1100,1200,1200
+Kerala,Palakkad,Cowpea (Lobia/Karamani),Cowpea (Whole),24-12-2024,4300,4500,4400
+Kerala,Kuriem  VFPCK,Cowpea(Veg),Cowpea (Veg),24-12-2024,1000,2000,1500
+Kerala,Manjeswaram,Cowpea(Veg),Cowpea (Veg),24-12-2024,2200,2300,2300
+Kerala,Palakkad,Cowpea(Veg),Cowpea (Veg),24-12-2024,2200,2600,2400
+Kerala,Kayamkulam,Cowpea(Veg),Other,24-12-2024,2400,2600,2500
+Kerala,Pothencode,Cowpea(Veg),Other,24-12-2024,2800,3200,3000
+Kerala,Kallachi,Cowpea(Veg),Cowpea (Veg),24-12-2024,3000,3500,3000
+Kerala,Kuruppanthura,Cowpea(Veg),Cowpea (Veg),24-12-2024,3000,4000,3500
+Kerala,Mukkom,Cowpea(Veg),Cowpea (Veg),24-12-2024,3000,4000,3700
+Kerala,Kanjirappally,Cowpea(Veg),Cowpea (Veg),24-12-2024,3800,4800,4200
+Kerala,Kuttoor,Cowpea(Veg),Cowpea (Veg),24-12-2024,3800,4000,3900
+Kerala,Neeleswaram,Cowpea(Veg),Cowpea (Veg),24-12-2024,4000,5000,4500
+Kerala,Kalpetta,Cowpea(Veg),Other,24-12-2024,4200,4400,4300
+Kerala,Harippad,Cowpea(Veg),Other,24-12-2024,4500,5000,4800
+Kerala,Pattambi,Cowpea(Veg),Cowpea (Veg),24-12-2024,5000,5500,5000
+Kerala,Nedumpaikulam  VFPCK,Cowpea(Veg),Cowpea (Veg),24-12-2024,5100,7600,6500
+Kerala,Kannur,Cowpea(Veg),Cowpea (Veg),24-12-2024,5600,6000,5800
+Kerala,Quilandy,Cowpea(Veg),Other,24-12-2024,5600,5800,5700
+Kerala,Kondotty,Cowpea(Veg),Other,24-12-2024,6000,6000,6000
+Kerala,Mannar,Cowpea(Veg),Other,24-12-2024,6000,7000,6500
+Kerala,Perambra,Cowpea(Veg),Other,24-12-2024,6000,7000,6500
+Kerala,North Paravur,Cowpea(Veg),Cowpea (Veg),24-12-2024,7200,7400,7300
+Kerala,Chengannur,Cowpea(Veg),Cowpea (Veg),24-12-2024,17400,17600,17500
+Kerala,Koduvayoor,Cowpea(Veg),Other,24-12-2024,17500,18500,18000
+Kerala,Chengannur,Cucumbar(Kheera),Other,24-12-2024,2000,4000,3000
+Kerala,Kuriem  VFPCK,Cucumbar(Kheera),Cucumbar,24-12-2024,2000,3400,3100
+Kerala,Neeleswaram,Cucumbar(Kheera),Other,24-12-2024,2000,3000,2500
+Kerala,Palakkad,Cucumbar(Kheera),Cucumbar,24-12-2024,2000,2300,2300
+Kerala,Manjeswaram,Cucumbar(Kheera),Cucumbar,24-12-2024,2200,3000,2700
+Kerala,Parassala,Cucumbar(Kheera),Cucumbar,24-12-2024,2600,2800,2700
+Kerala,Kanjirappally,Cucumbar(Kheera),Cucumbar,24-12-2024,2800,3800,3500
+Kerala,Kayamkulam,Cucumbar(Kheera),Other,24-12-2024,3200,3600,3400
+Kerala,Ramanagara,Cucumbar(Kheera),Cucumbar,24-12-2024,3500,3500,3500
+Kerala,Ettumanoor,Cucumbar(Kheera),Cucumbar,24-12-2024,3600,4000,3800
+Kerala,Mukkom,Cucumbar(Kheera),Cucumbar,24-12-2024,3600,3800,3700
+Kerala,Kannur,Cucumbar(Kheera),Cucumbar,24-12-2024,3700,3900,3800
+Kerala,Pattambi,Cucumbar(Kheera),Other,24-12-2024,4000,4500,4000
+Kerala,Payyannur,Cucumbar(Kheera),Other,24-12-2024,4000,5000,4500
+Kerala,Perumbavoor,Cucumbar(Kheera),Cucumbar,24-12-2024,4200,4600,4400
+Kerala,Mannar,Cucumbar(Kheera),Cucumbar,24-12-2024,4290,4690,4490
+Kerala,Kuttoor,Cucumbar(Kheera),Cucumbar,24-12-2024,4400,4600,4500
+Kerala,Kothamangalam,Cucumbar(Kheera),Other,24-12-2024,4500,7700,7300
+Kerala,Quilandy,Cucumbar(Kheera),Other,24-12-2024,4600,4900,4800
+Kerala,North Paravur,Cucumbar(Kheera),Cucumbar,24-12-2024,4800,5200,5000
+Kerala,Pothencode,Cucumbar(Kheera),Other,24-12-2024,4800,5200,5000
+Kerala,Perambra,Cucumbar(Kheera),Other,24-12-2024,5000,6000,5500
+Kerala,Ernakulam,Cucumbar(Kheera),Other,24-12-2024,5500,6000,5800
+Kerala,Chintamani,Cucumbar(Kheera),Cucumbar,24-12-2024,6000,7000,6200
+Kerala,Harippad,Cucumbar(Kheera),Other,24-12-2024,7000,8000,7500
+Kerala,L B Nagar,Cucumbar(Kheera),Cucumbar,24-12-2024,7000,7400,7200
+Kerala,Neyyatinkara,Cucumbar(Kheera),Cucumbar,24-12-2024,7000,8000,7500
+Kerala,Kottakkal,Cucumbar(Kheera),Other,24-12-2024,8000,8200,8100
+Kerala,Shimoga,Cucumbar(Kheera),Cucumbar,24-12-2024,22500,22580,22540
+Kerala,Koduvayoor,Cucumbar(Kheera),Cucumbar,24-12-2024,27000,28000,27500
+Kerala,Kottakkal,Custard Apple (Sharifa),Custard Apple(Sharifa),24-12-2024,2000,2200,2100
+Kerala,Gaddiannaram,Custard Apple (Sharifa),Custard Apple(Sharifa),24-12-2024,5800,6000,5900
+Kerala,Pothencode,Drumstick,Other,24-12-2024,1800,2200,2000
+Kerala,Kondotty,Drumstick,Other,24-12-2024,2400,2400,2400
+Kerala,Perambra,Drumstick,Other,24-12-2024,2400,4000,2600
+Kerala,Mukkom,Drumstick,Drumstick,24-12-2024,2900,3100,3000
+Kerala,Kallachi,Drumstick,Drumstick,24-12-2024,3000,4000,3200
+Kerala,Kuruppanthura,Drumstick,Drumstick,24-12-2024,3000,4000,3500
+Kerala,Quilandy,Drumstick,Other,24-12-2024,3500,3800,3800
+Kerala,Kayamkulam,Drumstick,Other,24-12-2024,3700,3900,3800
+Kerala,Chengannur,Drumstick,Other,24-12-2024,4000,6500,5000
+Kerala,Neeleswaram,Drumstick,Other,24-12-2024,4200,4600,4400
+Kerala,Manjeswaram,Drumstick,Drumstick,24-12-2024,5000,5000,5000
+Kerala,Perumbavoor,Drumstick,Drumstick,24-12-2024,5000,5200,5100
+Kerala,Ettumanoor,Drumstick,Drumstick,24-12-2024,5500,5900,5700
+Kerala,Ramanagara,Drumstick,Drumstick,24-12-2024,6500,6900,6700
+Kerala,North Paravur,Drumstick,Drumstick,24-12-2024,7500,8000,7800
+Kerala,Kanjirappally,Drumstick,Drumstick,24-12-2024,8000,9000,8200
+Kerala,Kottakkal,Drumstick,Other,24-12-2024,8500,8700,8600
+Kerala,Palakkad,Drumstick,Drumstick,24-12-2024,17000,19000,18100
+Kerala,Mahboob Manison,Dry Chillies,1st Sort,24-12-2024,3500,4500,4000
+Kerala,Mahboob Manison,Dry Chillies,2nd Sort,24-12-2024,6000,6500,6200
+Kerala,Neyyatinkara,Duster Beans,Other,24-12-2024,5000,5300,5150
+Kerala,Koduvayoor,Elephant Yam (Suran),Other,24-12-2024,2800,3200,3000
+Kerala,Kuttoor,Elephant Yam (Suran),Other,24-12-2024,3300,3500,3400
+Kerala,Ettumanoor,Elephant Yam (Suran),Other,24-12-2024,3500,3800,3600
+Kerala,Kothamangalam,Elephant Yam (Suran),Other,24-12-2024,4300,5000,4600
+Kerala,Pattambi,Elephant Yam (Suran),Other,24-12-2024,4500,5000,4800
+Kerala,Parassala,Elephant Yam (Suran),Elephant Yam (Suran),24-12-2024,4700,6000,6000
+Kerala,Palakkad,Elephant Yam (Suran),Other,24-12-2024,7000,8000,7500
+Kerala,Perumbavoor,Elephant Yam (Suran),Other,24-12-2024,7000,7000,7000
+Kerala,Mazhuvannur VFPCK,Elephant Yam (Suran),Elephant Yam (Suran),24-12-2024,30000,30080,30040
+Kerala,Perumbavoor,Field Pea,Field Pea,24-12-2024,4900,5100,5000
+Kerala,Kothamangalam,Field Pea,Other,24-12-2024,6800,7600,7600
+Kerala,L B Nagar,Field Pea,Field Pea,24-12-2024,8000,9000,8500
+Kerala,Quilandy,French Beans (Frasbean),Other,24-12-2024,2900,3200,3200
+Kerala,Kondotty,French Beans (Frasbean),Other,24-12-2024,3000,4000,3600
+Kerala,Mahboob Manison,French Beans (Frasbean),French Beans (Frasbean),24-12-2024,3400,3500,3500
+Kerala,Pothencode,French Beans (Frasbean),French Beans (Frasbean),24-12-2024,4300,4500,4400
+Kerala,North Paravur,French Beans (Frasbean),French Beans (Frasbean),24-12-2024,6200,6500,6400
+Kerala,Koduvayoor,French Beans (Frasbean),Other,24-12-2024,6800,7200,7000
+Kerala,Perambra,French Beans (Frasbean),Other,24-12-2024,6900,8000,7100
+Kerala,Kayamkulam,French Beans (Frasbean),Other,24-12-2024,7000,8000,7500
+Kerala,L B Nagar,French Beans (Frasbean),French Beans (Frasbean),24-12-2024,7500,8000,7800
+Kerala,Palakkad,French Beans (Frasbean),Other,24-12-2024,8000,8200,8100
+Kerala,Pattambi,French Beans (Frasbean),Other,24-12-2024,38000,38080,38040
+Kerala,Kondotty,Garlic,Other,24-12-2024,1200,1600,1400
+Kerala,Koduvayoor,Garlic,Other,24-12-2024,3600,4000,3800
+Kerala,Chengannur,Garlic,Garlic,24-12-2024,3800,4000,3900
+Kerala,Pothencode,Garlic,Average,24-12-2024,5000,5400,5200
+Kerala,North Paravur,Garlic,Average,24-12-2024,7000,7400,7200
+Kerala,Palakkad,Garlic,Garlic,24-12-2024,30000,32000,31100
+Kerala,Perumbavoor,Ginger(Dry),Dry,24-12-2024,3700,3900,3800
+Kerala,Mahboob Manison,Ginger(Dry),Big/Thick,24-12-2024,6000,6200,6000
+Kerala,Kuruppanthura,Ginger(Green),Green Ginger,24-12-2024,1200,2200,1700
+Kerala,Mukkom,Ginger(Green),Green Ginger,24-12-2024,1700,2000,1800
+Kerala,Kuriem  VFPCK,Ginger(Green),Green Ginger,24-12-2024,2000,4000,3000
+Kerala,Pattambi,Ginger(Green),Green Ginger,24-12-2024,2000,2100,2100
+Kerala,Manjeswaram,Ginger(Green),Green Ginger,24-12-2024,2600,3500,3100
+Kerala,Kallachi,Ginger(Green),Green Ginger,24-12-2024,2800,3000,2900
+Kerala,Kottakkal,Ginger(Green),Other,24-12-2024,2800,3000,2800
+Kerala,Kanjirappally,Ginger(Green),Green Ginger,24-12-2024,3000,4000,3200
+Kerala,Kuttoor,Ginger(Green),Green Ginger,24-12-2024,3000,3400,3200
+Kerala,Ettumanoor,Ginger(Green),Green Ginger,24-12-2024,3200,3500,3300
+Kerala,North Paravur,Ginger(Green),Green Ginger,24-12-2024,3600,4000,3800
+Kerala,Kondotty,Ginger(Green),Other,24-12-2024,4200,4600,4400
+Kerala,Quilandy,Ginger(Green),Other,24-12-2024,4200,4400,4300
+Kerala,Chengannur,Ginger(Green),Green Ginger,24-12-2024,4400,4600,4500
+Kerala,Kayamkulam,Ginger(Green),Other,24-12-2024,4400,4600,4500
+Kerala,Chelakkara,Ginger(Green),Other,24-12-2024,4500,5000,4800
+Kerala,Kothamangalam,Ginger(Green),Other,24-12-2024,4500,4800,4800
+Kerala,Neyyatinkara,Ginger(Green),Green Ginger,24-12-2024,4600,4800,4700
+Kerala,Perambra,Ginger(Green),Other,24-12-2024,5000,6000,5500
+Kerala,Mannar,Ginger(Green),Other,24-12-2024,5200,5600,5400
+Kerala,Chikkamagalore,Ginger(Green),Green Ginger,24-12-2024,6000,8000,6500
+Kerala,Kalpetta,Ginger(Green),Green Ginger,24-12-2024,6000,8000,7000
+Kerala,Naranganam  VFPCK,Ginger(Green),Green Ginger,24-12-2024,6000,7000,6500
+Kerala,Palakkad,Ginger(Green),Green Ginger,24-12-2024,6000,6400,6200
+Kerala,Koduvayoor,Ginger(Green),Other,24-12-2024,6500,6800,6700
+Kerala,Perumbavoor,Ginger(Green),Green Ginger,24-12-2024,6500,7500,6700
+Kerala,Pothencode,Ginger(Green),Other,24-12-2024,9000,10000,9800
+Kerala,Ramanagara,Ginger(Green),Green Ginger,24-12-2024,12500,14000,13300
+Kerala,Shimoga,Ginger(Green),Green Ginger,24-12-2024,22500,22580,22540
+Kerala,Gudimalkapur,Gladiolus Cut Flower,Gladiolus Cut Flower,24-12-2024,2000,2200,2100
+Kerala,Gaddiannaram,Grapes,Black,24-12-2024,3900,4100,4000
+Kerala,Gaddiannaram,Grapes,White,24-12-2024,4400,4600,4500
+Kerala,Kottakkal,Grapes,Black,24-12-2024,4800,5000,4900
+Kerala,Mukkom,Grapes,Other,24-12-2024,5000,5200,5100
+Kerala,Ramanagara,Green Avare (W),Green Avare (W),24-12-2024,1000,1200,1100
+Kerala,Koduvayoor,Green Avare (W),Other,24-12-2024,4800,5000,4900
+Kerala,Palakkad,Green Avare (W),Green Avare (W),24-12-2024,7500,8500,8100
+Kerala,Mukkom,Green Chilli,Green Chilly,24-12-2024,1100,1200,1200
+Kerala,Chengannur,Green Chilli,Green Chilly,24-12-2024,2500,3500,3000
+Kerala,Manjeswaram,Green Chilli,Green Chilly,24-12-2024,2500,3500,3100
+Kerala,Malur,Green Chilli,Green Chilly,24-12-2024,2800,3000,2900
+Kerala,Quilandy,Green Chilli,Other,24-12-2024,3000,3000,3000
+Kerala,Ettumanoor,Green Chilli,Green Chilly,24-12-2024,3200,3600,3400
+Kerala,Ramanagara,Green Chilli,Green Chilly,24-12-2024,3400,4500,4000
+Kerala,Parassala,Green Chilli,Green Chilly,24-12-2024,3500,4000,3700
+Kerala,Kuruppanthura,Green Chilli,Green Chilly,24-12-2024,3800,4800,4200
+Kerala,Mahboob Manison,Green Chilli,Green Chilly,24-12-2024,3800,4200,4000
+Kerala,Kallachi,Green Chilli,Green Chilly,24-12-2024,3900,4100,4000
+Kerala,Chevella,Green Chilli,Green Chilly,24-12-2024,4000,5000,4500
+Kerala,Kottakkal,Green Chilli,Other,24-12-2024,4000,10000,6000
+Kerala,Pattambi,Green Chilli,Green Chilly,24-12-2024,4000,4500,4000
+Kerala,Perambra,Green Chilli,Other,24-12-2024,4500,5500,4700
+Kerala,Pothencode,Green Chilli,Other,24-12-2024,4500,5000,4800
+Kerala,Chintamani,Green Chilli,Green Chilly,24-12-2024,4800,5100,5000
+Kerala,Perumbavoor,Green Chilli,Green Chilly,24-12-2024,5200,5400,5300
+Kerala,Kayamkulam,Green Chilli,Other,24-12-2024,5500,5700,5600
+Kerala,Kothamangalam,Green Chilli,Other,24-12-2024,5500,6000,5500
+Kerala,North Paravur,Green Chilli,Green Chilly,24-12-2024,5500,6500,6000
+Kerala,Palakkad,Green Chilli,Green Chilly,24-12-2024,6000,7000,6500
+Kerala,Gundlupet,Green Chilli,Green Chilly,24-12-2024,6500,6900,6700
+Kerala,Koduvayoor,Green Chilli,Other,24-12-2024,6800,7000,7000
+Kerala,Kondotty,Green Chilli,Other,24-12-2024,7000,8000,7500
+Kerala,Neyyatinkara,Green Chilli,Green Chilly,24-12-2024,7000,8000,7500
+Kerala,Kalpetta,Green Chilli,Green Chilly,24-12-2024,7200,7400,7300
+Kerala,Kanjirappally,Green Chilli,Green Chilly,24-12-2024,7300,7500,7400
+Kerala,L B Nagar,Green Chilli,Green Chilly,24-12-2024,8500,9000,8800
+Kerala,Mannar,Green Chilli,Other,24-12-2024,18180,18580,18380
+Kerala,Shimoga,Green Chilli,Green Chilly,24-12-2024,24000,24080,24040
+Kerala,Shimoga,Green Gram (Moong)(Whole),Green (Whole),24-12-2024,1800,2000,1900
+Kerala,Palakkad,Green Gram (Moong)(Whole),Green Gram Dhall-I,24-12-2024,2600,3000,2800
+Kerala,Palakkad,Green Gram (Moong)(Whole),Green (Whole),24-12-2024,20800,21000,20900
+Kerala,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,24-12-2024,22300,22300,22300
+Kerala,Palakkad,Green Peas,Green Peas,24-12-2024,2100,2400,2400
+Kerala,Mahbubnagar,Groundnut,Local,24-12-2024,1600,1700,1600
+Kerala,Kadiri,Groundnut,Kadiri-3,24-12-2024,5500,6000,5700
+Kerala,Kottakkal,Guava,Banarasi,24-12-2024,4000,5000,4500
+Kerala,Gaddiannaram,Guava,Guava,24-12-2024,4800,5100,5100
+Kerala,Kudchi,Gur(Jaggery),Yellow,24-12-2024,3000,3600,3300
+Kerala,Chittoor,Gur(Jaggery),NO 2,24-12-2024,3400,3800,3600
+Kerala,North Paravur,Indian Beans (Seam),Indian Beans (Seam),24-12-2024,1600,1800,1700
+Kerala,Manjeswaram,Indian Beans (Seam),Other,24-12-2024,3500,4000,3800
+Kerala,Perumbavoor,Indian Beans (Seam),Indian Beans (Seam),24-12-2024,34500,36000,35000
+Kerala,Gudimalkapur,Jarbara,Jerbara,24-12-2024,6500,6500,6500
+Kerala,Gudimalkapur,Jasmine,Jasmine,24-12-2024,4100,4300,4200
+Kerala,Shimoga,Jowar(Sorghum),Jowar ( White),24-12-2024,5000,10000,7000
+Kerala,Palakkad,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),24-12-2024,14000,15000,14600
+Kerala,Gudimalkapur,Kakada,Kakada,24-12-2024,2800,2800,2800
+Kerala,Gudimalkapur,Kankambra,Kankambra,24-12-2024,6800,7200,7000
+Kerala,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,24-12-2024,3200,3500,3500
+Kerala,Gaddiannaram,Kinnow,Kinnow,24-12-2024,6000,6200,6100
+Kerala,Shimoga,Knool Khol,Knool Khol,24-12-2024,4000,4500,4300
+Kerala,Ramanagara,Knool Khol,Knool Khol,24-12-2024,7500,7900,7700
+Kerala,Chintamani,Knool Khol,Knool Khol,24-12-2024,11000,12000,11500
+Kerala,Gundlupet,Kulthi(Horse Gram),Horse gram (Whole),24-12-2024,4000,4400,4200
+Kerala,Shimoga,Kulthi(Horse Gram),Horse gram (Whole),24-12-2024,17500,17580,17540
+Kerala,Palakkad,Lemon,Other,24-12-2024,2600,3000,2800
+Kerala,Kottakkal,Lemon,Other,24-12-2024,2800,3000,2800
+Kerala,Koduvayoor,Lemon,Other,24-12-2024,3400,3500,3500
+Kerala,Pattambi,Lemon,Other,24-12-2024,3700,3900,3800
+Kerala,Kondotty,Lemon,Other,24-12-2024,4000,4000,4000
+Kerala,Neeleswaram,Lemon,Other,24-12-2024,4400,6000,4700
+Kerala,Kuruppanthura,Lemon,Lemon,24-12-2024,5500,6000,5700
+Kerala,Chengannur,Lemon,Lemon,24-12-2024,5800,6500,6300
+Kerala,Perumbavoor,Lemon,Lemon,24-12-2024,6800,7000,6900
+Kerala,Chintalapudi,Lemon,Lemon,24-12-2024,7000,10000,8000
+Kerala,North Paravur,Lemon,Lemon,24-12-2024,9400,9800,9600
+Kerala,Parassala,Lemon,Lemon,24-12-2024,30000,30000,30000
+Kerala,Gudimalkapur,Lilly,Lily,24-12-2024,6000,6000,6000
+Kerala,Pattambi,Lime,Other,24-12-2024,2500,6000,5000
+Kerala,Palakkad,Lime,Other,24-12-2024,2900,3100,3000
+Kerala,Koduvayoor,Lime,Other,24-12-2024,6000,7000,6500
+Kerala,North Paravur,Little gourd (Kundru),Little gourd (Kundru),24-12-2024,2600,2800,2700
+Kerala,Manjeswaram,Little gourd (Kundru),Other,24-12-2024,2800,3200,3000
+Kerala,Pattambi,Little gourd (Kundru),Other,24-12-2024,2900,3200,3000
+Kerala,Kanjirappally,Little gourd (Kundru),Other,24-12-2024,3700,4700,4000
+Kerala,Perumbavoor,Little gourd (Kundru),Other,24-12-2024,3800,4100,4000
+Kerala,Kuruppanthura,Little gourd (Kundru),Other,24-12-2024,3900,4100,4000
+Kerala,Ettumanoor,Little gourd (Kundru),Other,24-12-2024,4000,4000,4000
+Kerala,Kothamangalam,Little gourd (Kundru),Other,24-12-2024,4000,5000,5000
+Kerala,Koduvayoor,Little gourd (Kundru),Other,24-12-2024,4500,4800,4700
+Kerala,Palakkad,Little gourd (Kundru),Other,24-12-2024,12000,13000,12500
+Kerala,Manjeswaram,Long Melon(Kakri),Other,24-12-2024,9000,9000,9000
+Kerala,Kudchi,Maize,Hybrid/Local,24-12-2024,1900,2400,2200
+Kerala,Chikkamagalore,Maize,Local,24-12-2024,2000,3000,2500
+Kerala,Hirekerur,Maize,Local,24-12-2024,2200,2500,2300
+Kerala,Jagtial,Maize,Deshi Red,24-12-2024,2500,3000,2500
+Kerala,Nagarkurnool(Talkapalli),Maize,Local,24-12-2024,2500,3500,3000
+Kerala,Kustagi,Maize,Hybrid/Local,24-12-2024,2800,3100,3000
+Kerala,Gundlupet,Maize,Local,24-12-2024,3200,3600,3400
+Kerala,Kadiri,Maize,Yellow,24-12-2024,3500,4000,3700
+Kerala,Haliyala,Maize,Hybrid/Local,24-12-2024,4000,5000,4600
+Kerala,Kalagategi,Maize,Local,24-12-2024,6000,10000,7000
+Kerala,Sankeshwar,Maize,Hybrid/Local,24-12-2024,6500,7000,6800
+Kerala,Harappana Halli,Maize,Hybrid/Local,24-12-2024,20000,22000,21100
+Kerala,Choppadandi,Maize,Hybrid,24-12-2024,21000,22000,21500
+Kerala,Kottakkal,Mango,Amrapali,24-12-2024,2100,2200,2200
+Kerala,Gaddiannaram,Mango,Totapuri,24-12-2024,2700,2900,2800
+Kerala,Koduvayoor,Mango,Other,24-12-2024,7000,8000,7600
+Kerala,Pattambi,Mango,Other,24-12-2024,17100,17200,17200
+Kerala,Kothamangalam,Mango (Raw-Ripe),Other,24-12-2024,3000,5000,4800
+Kerala,Kuruppanthura,Mango (Raw-Ripe),Mango - Raw-Ripe,24-12-2024,3400,3600,3500
+Kerala,Pothencode,Mango (Raw-Ripe),Other,24-12-2024,3800,4200,4000
+Kerala,Palakkad,Mango (Raw-Ripe),Mango - Raw-Ripe,24-12-2024,5010,5410,5210
+Kerala,Chengannur,Mango (Raw-Ripe),Mango - Raw-Ripe,24-12-2024,5100,5300,5200
+Kerala,Perumbavoor,Mango (Raw-Ripe),Mango - Raw-Ripe,24-12-2024,7100,7300,7200
+Kerala,Ettumanoor,Mango (Raw-Ripe),Mango - Raw-Ripe,24-12-2024,8000,9000,8600
+Kerala,North Paravur,Mango (Raw-Ripe),Mango - Raw-Ripe,24-12-2024,9000,10000,9800
+Kerala,Gudimalkapur,Marigold(loose),Marigold(Loose),24-12-2024,3700,3700,3700
+Kerala,North Paravur,Mint(Pudina),Mint(Pudina),24-12-2024,5600,6000,5800
+Kerala,Kuruppanthura,Mint(Pudina),Mint(Pudina),24-12-2024,21500,25000,22000
+Kerala,Gaddiannaram,Mousambi(Sweet Lime),Mousambi,24-12-2024,5400,5600,5500
+Kerala,Kottakkal,Mousambi(Sweet Lime),Mosambi-Organic,24-12-2024,5800,6000,5800
+Kerala,Shimoga,Mustard,Other,24-12-2024,5500,6000,5500
+Kerala,Mahboob Manison,Onion,1st Sort,24-12-2024,1800,2000,1900
+Kerala,Mannar,Onion,Small,24-12-2024,2400,2800,2600
+Kerala,Perambra,Onion,Other,24-12-2024,2500,3500,3000
+Kerala,Chengannur,Onion,Small,24-12-2024,2800,3000,2900
+Kerala,Kothamangalam,Onion,Big,24-12-2024,2800,3000,2900
+Kerala,Palakkad,Onion,Big,24-12-2024,2900,3100,3000
+Kerala,Kuruppanthura,Onion,Big,24-12-2024,3000,4000,3200
+Kerala,North Paravur,Onion,1st Sort,24-12-2024,3400,3800,3600
+Kerala,Koduvayoor,Onion,Small,24-12-2024,3500,3600,3500
+Kerala,Pattambi,Onion,Small,24-12-2024,3900,4000,4000
+Kerala,Kottakkal,Onion,Other,24-12-2024,4000,4500,4000
+Kerala,Kallachi,Onion,Other,24-12-2024,4190,4500,4500
+Kerala,Neeleswaram,Onion,Big,24-12-2024,4500,5000,4800
+Kerala,Kayamkulam,Onion,Big,24-12-2024,4800,5000,4900
+Kerala,Chikkamagalore,Onion,Other,24-12-2024,5000,6000,5500
+Kerala,Kanjirappally,Onion,Big,24-12-2024,5000,5600,5200
+Kerala,Kuruppanthura,Onion,Onion,24-12-2024,5000,6000,5500
+Kerala,Mukkom,Onion,Onion,24-12-2024,5000,5200,5100
+Kerala,Shimoga,Onion,Onion,24-12-2024,5100,5200,5200
+Kerala,Mahboob Manison,Onion,2nd Sort,24-12-2024,5200,5500,5500
+Kerala,Kayamkulam,Onion,Small,24-12-2024,5500,5700,5600
+Kerala,Pattambi,Onion,Big,24-12-2024,5500,6000,5700
+Kerala,Chintamani,Onion,Onion,24-12-2024,5600,6000,5800
+Kerala,Kondotty,Onion,Other,24-12-2024,5800,6200,6000
+Kerala,Mannar,Onion,Big,24-12-2024,6500,7000,6800
+Kerala,Palakkad,Onion,Small,24-12-2024,6500,6900,6700
+Kerala,Chengannur,Onion,Onion,24-12-2024,6900,7800,7200
+Kerala,Ettumanoor,Onion,Onion,24-12-2024,7000,7300,7200
+Kerala,Koduvayoor,Onion,Big,24-12-2024,7600,8500,8000
+Kerala,Ettumanoor,Onion,Big,24-12-2024,18000,19000,18500
+Kerala,Kanjirappally,Onion,Onion,24-12-2024,18500,19500,19000
+Kerala,Pothencode,Onion,Other,24-12-2024,31000,32000,31500
+Kerala,Perumbavoor,Onion,Onion,24-12-2024,56000,58000,57000
+Kerala,Kannur,Onion,Other,24-12-2024,59000,59000,59000
+Kerala,Kottakkal,Orange,Other,24-12-2024,1800,2000,1800
+Kerala,Gaddiannaram,Orange,Darjeeling,24-12-2024,3200,3500,3400
+Kerala,Kondotty,Orange,Other,24-12-2024,4000,5000,4600
+Kerala,Mukkom,Orange,Other,24-12-2024,4000,4200,4100
+Kerala,Mancharial,Paddy(Dhan)(Basmati),1121,24-12-2024,3800,4000,3900
+Kerala,Manakodur,Paddy(Dhan)(Common),MTU-1010,24-12-2024,1400,1600,1500
+Kerala,Huzzurabad,Paddy(Dhan)(Common),MTU-1010,24-12-2024,2000,2500,2300
+Kerala,Devarkonda(Mallepalli),Paddy(Dhan)(Common),MTU-1010,24-12-2024,2700,2900,2800
+Kerala,Rajahmundry,Paddy(Dhan)(Common),Swarna Masuri (New),24-12-2024,3000,3000,3000
+Kerala,Shimoga,Paddy(Dhan)(Common),Paddy Medium,24-12-2024,3300,4000,3600
+Kerala,Sattupalli,Paddy(Dhan)(Common),B P T,24-12-2024,3400,3500,3500
+Kerala,Devarakonda,Paddy(Dhan)(Common),MTU-1010,24-12-2024,3600,3800,3700
+Kerala,Manakodur,Paddy(Dhan)(Common),I.R.-64,24-12-2024,3800,4000,3900
+Kerala,Gopalraopet,Paddy(Dhan)(Common),I.R. 64,24-12-2024,4000,4200,4100
+Kerala,Choppadandi,Paddy(Dhan)(Common),I.R. 64,24-12-2024,4500,4700,4600
+Kerala,Choppadandi,Paddy(Dhan)(Common),1001,24-12-2024,4500,4700,4600
+Kerala,Narayanpet,Paddy(Dhan)(Common),Sona,24-12-2024,4500,5500,5000
+Kerala,Mahbubnagar,Paddy(Dhan)(Common),Sona Mahsuri,24-12-2024,4700,5000,5000
+Kerala,Gangadhara,Paddy(Dhan)(Common),1001,24-12-2024,4800,5000,4900
+Kerala,Shimoga,Paddy(Dhan)(Common),Paddy fine,24-12-2024,5000,6000,5500
+Kerala,Devarkonda(Dindi),Paddy(Dhan)(Common),MTU-1010,24-12-2024,5500,5700,5600
+Kerala,Dharmaram,Paddy(Dhan)(Common),1001,24-12-2024,5500,5700,5600
+Kerala,Jagtial,Paddy(Dhan)(Common),MTU-1010,24-12-2024,5500,6000,5700
+Kerala,Karapa,Paddy(Dhan)(Common),1001,24-12-2024,5800,6100,6000
+Kerala,Haliyala,Paddy(Dhan)(Common),Paddy Medium,24-12-2024,6000,7000,6600
+Kerala,Lingasugur,Paddy(Dhan)(Common),Sona,24-12-2024,6000,6000,6000
+Kerala,Rajahmundry,Paddy(Dhan)(Common),Paddy,24-12-2024,6000,6000,6000
+Kerala,Kodad,Paddy(Dhan)(Common),B P T,24-12-2024,6500,6800,6500
+Kerala,Sampara,Paddy(Dhan)(Common),Swarna Masuri (New),24-12-2024,7000,7500,7200
+Kerala,Choppadandi,Paddy(Dhan)(Common),B P T,24-12-2024,7200,7400,7300
+Kerala,Huzzurabad,Paddy(Dhan)(Common),1001,24-12-2024,7300,7500,7400
+Kerala,Kesamudram,Paddy(Dhan)(Common),HMT,24-12-2024,7500,8000,7800
+Kerala,Mahbubnagar,Paddy(Dhan)(Common),Hansa,24-12-2024,19500,19800,19800
+Kerala,Jagtial,Paddy(Dhan)(Common),Other,24-12-2024,28000,28000,28000
+Kerala,Miryalaguda,Paddy(Dhan)(Common),Samba Masuri,24-12-2024,45000,45080,45040
+Kerala,Mazhuvannur VFPCK,Papaya,Other,24-12-2024,3500,4000,3700
+Kerala,Gaddiannaram,Papaya,Other,24-12-2024,3800,4000,3900
+Kerala,Kottakkal,Papaya (Raw),Other,24-12-2024,4200,5500,5000
+Kerala,Ramanagara,Peas Wet,Peas Wet,24-12-2024,5600,6000,5800
+Kerala,Kuttoor,Pepper ungarbled,Other,24-12-2024,4400,4600,4500
+Kerala,Mazhuvannur VFPCK,Pineapple,Pine Apple,24-12-2024,1800,2000,1800
+Kerala,Pothencode,Pineapple,Other,24-12-2024,2600,3000,3000
+Kerala,Palakkad,Pineapple,Pine Apple,24-12-2024,2770,3170,2970
+Kerala,Kothamangalam,Pineapple,Other,24-12-2024,3800,4800,4800
+Kerala,Koduvayoor,Pineapple,Other,24-12-2024,3900,4100,4000
+Kerala,Mukkom,Pineapple,Other,24-12-2024,4100,4300,4200
+Kerala,Gaddiannaram,Pineapple,Other,24-12-2024,4900,5100,5000
+Kerala,Perumbavoor,Pineapple,Pine Apple,24-12-2024,5000,6000,5500
+Kerala,North Paravur,Pineapple,Other,24-12-2024,5800,6000,5900
+Kerala,Kottakkal,Pineapple,Other,24-12-2024,40000,40080,40040
+Kerala,Gaddiannaram,Plum,Other,24-12-2024,2300,2400,2300
+Kerala,Koduvayoor,Potato,Other,24-12-2024,800,1100,1100
+Kerala,Ettumanoor,Potato,Potato,24-12-2024,1100,1200,1100
+Kerala,Chengannur,Potato,Potato,24-12-2024,2200,2400,2300
+Kerala,Kondotty,Potato,Other,24-12-2024,3500,4000,3800
+Kerala,Chelakkara,Potato,Other,24-12-2024,4000,7000,6000
+Kerala,Chikkamagalore,Potato,Other,24-12-2024,4000,5000,4500
+Kerala,Kothamangalam,Potato,Other,24-12-2024,4000,4500,4200
+Kerala,Pothencode,Potato,Other,24-12-2024,4000,4300,4200
+Kerala,Kanjirappally,Potato,Potato,24-12-2024,4300,5300,4700
+Kerala,Malur,Potato,Potato,24-12-2024,4800,5000,4900
+Kerala,Kottakkal,Potato,Other,24-12-2024,5000,6000,5500
+Kerala,Kuruppanthura,Potato,Potato,24-12-2024,5000,6000,5500
+Kerala,Perambra,Potato,Other,24-12-2024,5000,6000,5500
+Kerala,Pattambi,Potato,Other,24-12-2024,5195,5200,5200
+Kerala,North Paravur,Potato,(Red Nanital),24-12-2024,5500,6000,5800
+Kerala,Kayamkulam,Potato,Other,24-12-2024,5600,5800,5700
+Kerala,Manjeswaram,Potato,Other,24-12-2024,5600,6000,5800
+Kerala,L B Nagar,Potato,(Red Nanital),24-12-2024,6400,6800,6600
+Kerala,Mannar,Potato,Other,24-12-2024,6400,6500,6500
+Kerala,Mukkom,Potato,Other,24-12-2024,6500,7000,6800
+Kerala,Perumbavoor,Potato,Potato,24-12-2024,6600,7000,6800
+Kerala,Mahboob Manison,Potato,(Red Nanital),24-12-2024,7000,7400,7200
+Kerala,Shimoga,Potato,Local,24-12-2024,7400,8000,7700
+Kerala,Chintamani,Potato,Local,24-12-2024,18400,18400,18400
+Kerala,Kallachi,Potato,Other,24-12-2024,45000,45080,45040
+Kerala,Neeleswaram,Potato,Other,24-12-2024,59000,70000,65000
+Kerala,Palakkad,Potato,Potato,24-12-2024,62250,62650,62450
+Kerala,Payyannur,Pumpkin,Other,24-12-2024,1200,2000,1800
+Kerala,Kallachi,Pumpkin,Pumpkin,24-12-2024,1800,2000,1900
+Kerala,Kuruppanthura,Pumpkin,Pumpkin,24-12-2024,2200,3200,2700
+Kerala,Palakkad,Pumpkin,Pumpkin,24-12-2024,2400,4000,4000
+Kerala,Chengannur,Pumpkin,Other,24-12-2024,3000,5000,4000
+Kerala,Kayamkulam,Pumpkin,Other,24-12-2024,3000,3500,3200
+Kerala,Kottakkal,Pumpkin,Other,24-12-2024,3000,3400,3000
+Kerala,Pothencode,Pumpkin,Other,24-12-2024,3500,4000,3800
+Kerala,Koduvayoor,Pumpkin,Other,24-12-2024,3800,4000,4000
+Kerala,Kondotty,Pumpkin,Other,24-12-2024,4000,4500,4200
+Kerala,Kothamangalam,Pumpkin,Other,24-12-2024,4000,4200,4100
+Kerala,Mannar,Pumpkin,Other,24-12-2024,4000,4500,4200
+Kerala,Ettumanoor,Pumpkin,Pumpkin,24-12-2024,4200,4500,4300
+Kerala,Kalpetta,Pumpkin,Other,24-12-2024,4500,5500,5000
+Kerala,Kanjirappally,Pumpkin,Pumpkin,24-12-2024,4800,5500,5000
+Kerala,Pattambi,Pumpkin,Other,24-12-2024,5000,9000,8000
+Kerala,Mukkom,Pumpkin,Pumpkin,24-12-2024,5000,5200,5100
+Kerala,Neeleswaram,Pumpkin,Other,24-12-2024,5000,6000,5200
+Kerala,Quilandy,Pumpkin,Other,24-12-2024,5400,5600,5500
+Kerala,Manjeswaram,Pumpkin,Pumpkin,24-12-2024,6200,6600,6400
+Kerala,North Paravur,Pumpkin,Other,24-12-2024,6800,7200,7000
+Kerala,Neyyatinkara,Pumpkin,Other,24-12-2024,7000,8000,7500
+Kerala,Perumbavoor,Pumpkin,Pumpkin,24-12-2024,7200,7400,7300
+Kerala,Perambra,Pumpkin,Other,24-12-2024,7500,8500,8000
+Kerala,Koduvayoor,Raddish,Other,24-12-2024,2100,2300,2200
+Kerala,Kottakkal,Raddish,Other,24-12-2024,2400,2600,2500
+Kerala,Ramanagara,Raddish,Raddish,24-12-2024,4800,5200,5000
+Kerala,Chintamani,Raddish,Raddish,24-12-2024,4900,5100,5000
+Kerala,Shimoga,Ragi (Finger Millet),Red,24-12-2024,2200,2300,2300
+Kerala,Mahbubnagar,Ragi (Finger Millet),Local,24-12-2024,5800,6000,6000
+Kerala,Harappana Halli,Ragi (Finger Millet),Local,24-12-2024,7000,8000,7600
+Kerala,Shimoga,Rice,Fine,24-12-2024,2100,2200,2200
+Kerala,Shimoga,Rice,Coarse,24-12-2024,2700,2800,2800
+Kerala,Sankeshwar,Rice,Other,24-12-2024,3400,3500,3500
+Kerala,North Paravur,Ridgeguard(Tori),Other,24-12-2024,2500,3000,3000
+Kerala,Karimnagar,Ridgeguard(Tori),Other,24-12-2024,3000,3600,3300
+Kerala,Chintamani,Ridgeguard(Tori),Ridgeguard(Tori),24-12-2024,5000,6000,5200
+Kerala,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),24-12-2024,5000,6000,5600
+Kerala,Neeleswaram,Ridgeguard(Tori),Other,24-12-2024,62000,63000,62500
+Kerala,Gudimalkapur,Rose(Loose)),Other,24-12-2024,4500,4900,4700
+Kerala,Kalpetta,Rubber,Other,24-12-2024,5000,6000,5500
+Kerala,Irikkur,Rubber,Other,24-12-2024,5700,5700,5700
+Kerala,Kuttoor,Rubber,Other,24-12-2024,9000,10000,9500
+Kerala,Ramanagara,Seemebadnekai,Seemebadanekai,24-12-2024,3200,3600,3400
+Kerala,Nizamabad,"Sesamum(Sesame,Gingelly,Til)",95/5,24-12-2024,3800,4000,3900
+Kerala,Kuriem  VFPCK,Snakeguard,Snakeguard,24-12-2024,1000,2000,1800
+Kerala,North Paravur,Snakeguard,Other,24-12-2024,1000,2200,2000
+Kerala,Quilandy,Snakeguard,Other,24-12-2024,1700,1900,1800
+Kerala,Kayamkulam,Snakeguard,Other,24-12-2024,1800,2200,2000
+Kerala,Mannar,Snakeguard,Snakeguard,24-12-2024,1800,2000,1900
+Kerala,Kuttoor,Snakeguard,Other,24-12-2024,2400,2600,2500
+Kerala,Chengannur,Snakeguard,Other,24-12-2024,2500,3500,3000
+Kerala,Koduvayoor,Snakeguard,Other,24-12-2024,2500,3500,3000
+Kerala,Kuruppanthura,Snakeguard,Snakeguard,24-12-2024,2500,3500,3000
+Kerala,Neeleswaram,Snakeguard,Other,24-12-2024,2700,3700,3000
+Kerala,Kallachi,Snakeguard,Snakeguard,24-12-2024,3000,6000,5000
+Kerala,Nedumpaikulam  VFPCK,Snakeguard,Other,24-12-2024,3000,6000,5000
+Kerala,Kalpetta,Snakeguard,Other,24-12-2024,3000,5000,4000
+Kerala,Perumbavoor,Snakeguard,Snakeguard,24-12-2024,3000,4000,3500
+Kerala,Palakkad,Snakeguard,Snakeguard,24-12-2024,3400,3600,3500
+Kerala,Chelakkara,Snakeguard,Other,24-12-2024,3800,4100,4000
+Kerala,Parassala,Snakeguard,Snakeguard,24-12-2024,3800,4000,3900
+Kerala,Mukkom,Snakeguard,Snakeguard,24-12-2024,3900,4200,4000
+Kerala,Kothamangalam,Snakeguard,Other,24-12-2024,4000,5000,5000
+Kerala,Pattambi,Snakeguard,Other,24-12-2024,4000,4200,4100
+Kerala,Pothencode,Snakeguard,Other,24-12-2024,4400,4600,4500
+Kerala,Mazhuvannur VFPCK,Snakeguard,Other,24-12-2024,5000,5500,5300
+Kerala,Perambra,Snakeguard,Other,24-12-2024,5500,6500,6000
+Kerala,Ettumanoor,Snakeguard,Snakeguard,24-12-2024,6000,7000,6500
+Kerala,Kottakkal,Snakeguard,Other,24-12-2024,6500,6700,6600
+Kerala,Neyyatinkara,Snakeguard,Other,24-12-2024,6800,7200,7000
+Kerala,Ramanagara,Snakeguard,Snakeguard,24-12-2024,7000,8000,7600
+Kerala,Kanjirappally,Snakeguard,Snakeguard,24-12-2024,7500,9000,7700
+Kerala,Kondotty,Snakeguard,Other,24-12-2024,9000,10000,9600
+Kerala,Kalagategi,Soyabean,Soyabeen,24-12-2024,10000,16000,12000
+Kerala,Gundlupet,Sunflower,Other,24-12-2024,5300,6000,5700
+Kerala,Pattambi,Sweet Potato,Other,24-12-2024,2500,4000,3000
+Kerala,Koduvayoor,Sweet Potato,Other,24-12-2024,2800,3000,2900
+Kerala,Kottakkal,Sweet Potato,Hosur Green,24-12-2024,3400,3500,3500
+Kerala,North Paravur,Sweet Potato,Hosur Green,24-12-2024,4800,5200,5000
+Kerala,Palakkad,Sweet Potato,Sweet Potato,24-12-2024,4800,5000,4900
+Kerala,Ramanagara,Sweet Pumpkin,Sweet Pumpkin,24-12-2024,5000,6000,5600
+Kerala,Mahboob Manison,Tamarind Fruit,Chapathi,24-12-2024,2200,2600,2400
+Kerala,Payyannur,Tapioca,Other,24-12-2024,700,4100,1200
+Kerala,Mutholy  VFPCK,Tapioca,Tapioca,24-12-2024,1000,2000,1500
+Kerala,Kothamangalam,Tapioca,Tapioca,24-12-2024,2000,2200,2100
+Kerala,Kanjirappally,Tapioca,Tapioca,24-12-2024,2200,3300,2900
+Kerala,Kondotty,Tapioca,Other,24-12-2024,2300,3000,2700
+Kerala,Pothencode,Tapioca,Other,24-12-2024,2500,2500,2500
+Kerala,North Paravur,Tapioca,Other,24-12-2024,3700,4500,4000
+Kerala,Mazhuvannur VFPCK,Tapioca,Other,24-12-2024,4000,4200,4100
+Kerala,Pattambi,Tapioca,Other,24-12-2024,4300,4600,4500
+Kerala,Ranniangadi,Tapioca,Tapioca,24-12-2024,4500,5000,4800
+Kerala,Ernakulam,Tapioca,Tapioca,24-12-2024,4600,5000,4800
+Kerala,Kuttoor,Tapioca,Other,24-12-2024,5000,6000,5500
+Kerala,Perumbavoor,Tapioca,Tapioca,24-12-2024,5000,6000,5500
+Kerala,Neyyatinkara,Tapioca,Tapioca,24-12-2024,6000,6200,6100
+Kerala,Parassala,Tapioca,Tapioca,24-12-2024,6000,6500,6300
+Kerala,Palakkad,Tapioca,Tapioca,24-12-2024,7400,7800,7600
+Kerala,Koduvayoor,Tapioca,Other,24-12-2024,7500,8200,8000
+Kerala,Kuruppanthura,Tapioca,Tapioca,24-12-2024,23500,24000,23800
+Kerala,Kollegal,Tender Coconut,Tender Coconut,24-12-2024,5300,5500,5400
+Kerala,Ramanagara,Thogrikai,Thogarikai,24-12-2024,6000,6500,6200
+Kerala,Shimoga,Thondekai,Thondekai,24-12-2024,4400,5000,4500
+Kerala,Quilandy,Tomato,Other,24-12-2024,1400,1600,1500
+Kerala,Chengannur,Tomato,Tomato,24-12-2024,1500,2500,2000
+Kerala,Kayamkulam,Tomato,Other,24-12-2024,1800,2000,1900
+Kerala,Perumbavoor,Tomato,Tomato,24-12-2024,2300,2500,2400
+Kerala,Kuruppanthura,Tomato,Tomato,24-12-2024,2500,3500,3000
+Kerala,Malur,Tomato,Tomato,24-12-2024,2600,2800,2700
+Kerala,Pattambi,Tomato,Other,24-12-2024,2600,2800,2700
+Kerala,Punganur,Tomato,Hybrid,24-12-2024,2600,2800,2700
+Kerala,Chikkamagalore,Tomato,Tomato,24-12-2024,2700,4000,2900
+Kerala,Madanapalli,Tomato,Local,24-12-2024,2800,3200,3000
+Kerala,Mahboob Manison,Tomato,Deshi,24-12-2024,3700,4000,3800
+Kerala,Kondotty,Tomato,Other,24-12-2024,3800,4200,4000
+Kerala,Shimoga,Tomato,Tomato,24-12-2024,3800,4000,3800
+Kerala,Chintamani,Tomato,Tomato,24-12-2024,3900,4100,4000
+Kerala,Perambra,Tomato,Tomato,24-12-2024,4000,5000,4200
+Kerala,Mulakalacheruvu,Tomato,Local,24-12-2024,4400,5500,5100
+Kerala,Palakkad,Tomato,Tomato,24-12-2024,4500,4900,4700
+Kerala,Chelakkara,Tomato,Other,24-12-2024,5000,5500,5000
+Kerala,Kalikiri,Tomato,Local,24-12-2024,5000,5200,5000
+Kerala,Kallachi,Tomato,Tomato,24-12-2024,5000,5500,5000
+Kerala,Manjeswaram,Tomato,Tomato,24-12-2024,5000,5800,5400
+Kerala,Koduvayoor,Tomato,Other,24-12-2024,5300,5500,5400
+Kerala,Kothamangalam,Tomato,Other,24-12-2024,5800,6000,5900
+Kerala,North Paravur,Tomato,Deshi,24-12-2024,5800,6000,5900
+Kerala,Ettumanoor,Tomato,Tomato,24-12-2024,6000,8000,7000
+Kerala,L B Nagar,Tomato,Deshi,24-12-2024,6000,7000,6800
+Kerala,Mukkom,Tomato,Tomato,24-12-2024,6000,9000,7000
+Kerala,Pothencode,Tomato,Other,24-12-2024,6000,6800,6600
+Kerala,Chickkaballapura,Tomato,Tomato,24-12-2024,6500,7500,7000
+Kerala,Neyyatinkara,Tomato,Tomato,24-12-2024,7000,8000,7500
+Kerala,Ramanagara,Tomato,Tomato,24-12-2024,7000,8000,7500
+Kerala,Kanjirappally,Tomato,Tomato,24-12-2024,7200,7200,7200
+Kerala,Ernakulam,Tomato,Tomato,24-12-2024,7500,8000,7800
+Kerala,Mannar,Tomato,Other,24-12-2024,8000,10000,10000
+Kerala,Gundlupet,Tomato,Tomato,24-12-2024,12000,13000,12600
+Kerala,Kottakkal,Tomato,Other,24-12-2024,40500,40540,40540
+Kerala,Parassala,Tomato,Tomato,24-12-2024,61000,61000,61000
+Kerala,Duggirala,Turmeric,Bulb,24-12-2024,1800,2200,2000
+Kerala,Duggirala,Turmeric,Finger,24-12-2024,3000,3500,3200
+Kerala,Nizamabad,Turmeric,Finger,24-12-2024,3700,3900,3800
+Kerala,Nizamabad,Turmeric,Bulb,24-12-2024,5600,5800,5700
+Kerala,Mahboob Manison,Turmeric,Bulb,24-12-2024,7000,7300,7200
+Kerala,Gaddiannaram,Water Melon,Other,24-12-2024,21800,22200,22000
+Kerala,Kottakkal,Water Melon,Other,24-12-2024,22500,22580,22540
+Kerala,Shimoga,Wheat,Super Fine,24-12-2024,4000,4500,4000
+Kerala,Rapur,Wood,Casuarina,24-12-2024,26100,26500,26300
+Kerala,Puramattom VFPCK,Yam (Ratalu),Yam (Ratalu),24-12-2024,3400,3500,3400
+Kerala,Kalpetta,Yam (Ratalu),Other,24-12-2024,4900,5500,5200
+Telangana,Thirurrangadi,Amaranthus,Other,24-12-2024,200,250,220
+Telangana,Thrissur,Amaranthus,Amaranthus,24-12-2024,1000,3800,2800
+Telangana,Vengeri(Kozhikode),Amaranthus,Amaranthus,24-12-2024,1600,2000,1800
+Telangana,Thrippunithura,Amphophalus,Amphophalus,24-12-2024,2225,2225,2225
+Telangana,Thrissur,Arecanut(Betelnut/Supari),Other,24-12-2024,60,100,80
+Telangana,Suryapeta,Arhar (Tur/Red Gram)(Whole),Local,24-12-2024,2320,2320,2320
+Telangana,Zaheerabad,Arhar (Tur/Red Gram)(Whole),Local,24-12-2024,3500,4000,3750
+Telangana,Thirurrangadi,Ashgourd,Ashgourd,24-12-2024,2000,2800,2400
+Telangana,Thrissur,Ashgourd,Ashgourd,24-12-2024,2000,7500,4000
+Telangana,Thrippunithura,Ashgourd,Ashgourd,24-12-2024,2436,2436,2436
+Telangana,Vengeri(Kozhikode),Ashgourd,Ashgourd,24-12-2024,5059,6296,6296
+Telangana,Yalburga,Bajra(Pearl Millet/Cumbu),Hybrid,24-12-2024,2200,2320,2300
+Telangana,Thirurrangadi,Banana,Nendra Bale,24-12-2024,480,500,490
+Telangana,Thrippunithura,Banana,Poovan,24-12-2024,1000,2000,1500
+Telangana,Thrissur,Banana,Robusta,24-12-2024,2000,3000,2500
+Telangana,Thrissur,Banana,Palayamthodan,24-12-2024,2274,2289,2286
+Telangana,Taliparamba,Banana,Other,24-12-2024,2300,2300,2300
+Telangana,Warangal,Banana,Banana - Ripe,24-12-2024,3000,5500,5000
+Telangana,Taliparamba,Banana,Other,24-12-2024,3260,4152,4152
+Telangana,Thrissur,Banana,Banana - Ripe,24-12-2024,3400,3400,3400
+Telangana,Thalasserry,Banana,Other,24-12-2024,3500,4000,3750
+Telangana,Thalasserry,Banana,Other,24-12-2024,4500,5000,4750
+Telangana,Thrippunithura,Banana,Palayamthodan,24-12-2024,6000,6000,6000
+Telangana,Thirurrangadi,Banana,Palayamthodan,24-12-2024,12000,17000,15000
+Telangana,Thrissur,Banana - Green,Banana - Green,24-12-2024,1000,2000,1500
+Telangana,Thirurrangadi,Banana - Green,Other,24-12-2024,2280,2320,2300
+Telangana,Sultan bathery,Banana - Green,Banana - Green,24-12-2024,3000,3000,3000
+Telangana,Thrippunithura,Banana - Green,Banana - Green,24-12-2024,5152,5155,5152
+Telangana,Thirurrangadi,Beans,Beans (Whole),24-12-2024,400,440,440
+Telangana,Thirurrangadi,Beetroot,Other,24-12-2024,6,12,9
+Telangana,Thrippunithura,Beetroot,Beetroot,24-12-2024,1000,3000,1400
+Telangana,Thrissur,Beetroot,Beetroot,24-12-2024,2200,11900,3300
+Telangana,Warangal,Beetroot,Beetroot,24-12-2024,3000,3000,3000
+Telangana,Thalasserry,Bhindi(Ladies Finger),Other,24-12-2024,600,1500,1200
+Telangana,Vengeri(Kozhikode),Bhindi(Ladies Finger),Bhindi,24-12-2024,1600,2000,1800
+Telangana,Thrissur,Bhindi(Ladies Finger),Bhindi,24-12-2024,2320,2320,2320
+Telangana,Warangal,Bhindi(Ladies Finger),Bhindi,24-12-2024,2500,11000,5000
+Telangana,Thirurrangadi,Bhindi(Ladies Finger),Other,24-12-2024,5089,5225,5089
+Telangana,Thrippunithura,Bhindi(Ladies Finger),Bhindi,24-12-2024,7550,7550,7550
+Telangana,Vengeri(Kozhikode),Bitter gourd,Bitter Gourd,24-12-2024,2000,2500,2250
+Telangana,Thrissur,Bitter gourd,Bitter Gourd,24-12-2024,2300,2300,2300
+Telangana,Warangal,Bitter gourd,Bitter Gourd,24-12-2024,4500,5000,4750
+Telangana,Thrippunithura,Bitter gourd,Bitter Gourd,24-12-2024,5500,5500,5500
+Telangana,Thirurrangadi,Bitter gourd,Other,24-12-2024,6600,6700,6600
+Telangana,Tenali,Black Gram (Urd Beans)(Whole),Black Gram (Whole),24-12-2024,2201,2889,2521
+Telangana,Zaheerabad,Black Gram (Urd Beans)(Whole),Local,24-12-2024,4000,4500,4250
+Telangana,Thalasserry,Black pepper,Other,24-12-2024,700,1500,1300
+Telangana,Thrissur,Black pepper,Other,24-12-2024,3000,3500,3200
+Telangana,Thrippunithura,Bottle gourd,Bottle Gourd,24-12-2024,2300,2300,2300
+Telangana,Thirurrangadi,Bottle gourd,Other,24-12-2024,5000,6000,5500
+Telangana,Thrissur,Brinjal,Brinjal,24-12-2024,600,1400,1200
+Telangana,Warangal,Brinjal,Brinjal,24-12-2024,1500,3000,2000
+Telangana,Vengeri(Kozhikode),Brinjal,Brinjal,24-12-2024,1641,2589,2569
+Telangana,Thirurrangadi,Brinjal,Other,24-12-2024,2349,2709,2667
+Telangana,Thrippunithura,Brinjal,Brinjal,24-12-2024,3000,4000,3500
+Telangana,Taliparamba,Brinjal,Brinjal,24-12-2024,6412,6412,6412
+Telangana,Thirurrangadi,Cabbage,Other,24-12-2024,60,80,70
+Telangana,Thrissur,Cabbage,Cabbage,24-12-2024,1100,2500,1600
+Telangana,Thrippunithura,Cabbage,Cabbage,24-12-2024,2300,2300,2300
+Telangana,Warangal,Cabbage,Cabbage,24-12-2024,2500,4500,3275
+Telangana,Warangal,Capsicum,Capsicum,24-12-2024,2000,4000,3500
+Telangana,Thirurrangadi,Capsicum,Capsicum,24-12-2024,2300,2300,2300
+Telangana,Thrippunithura,Capsicum,Capsicum,24-12-2024,2320,2320,2320
+Telangana,Thirurrangadi,Carrot,Other,24-12-2024,120,160,140
+Telangana,Thrissur,Carrot,Carrot,24-12-2024,450,3500,800
+Telangana,Warangal,Carrot,Carrot,24-12-2024,600,2300,1300
+Telangana,Thalasserry,Carrot,Carrot,24-12-2024,3000,3500,3250
+Telangana,Vengeri(Kozhikode),Carrot,Carrot,24-12-2024,3553,7116,4764
+Telangana,Thrippunithura,Carrot,Carrot,24-12-2024,4000,4500,4200
+Telangana,Tuni,Cashewnuts,Local(Raw),24-12-2024,6700,6900,6800
+Telangana,Thirurrangadi,Cauliflower,Other,24-12-2024,500,1000,700
+Telangana,Warangal,Cauliflower,Cauliflower,24-12-2024,2000,3000,2500
+Telangana,Thrippunithura,Cauliflower,Cauliflower,24-12-2024,2320,2320,2320
+Telangana,Thrissur,Cauliflower,Cauliflower,24-12-2024,3000,3500,3200
+Telangana,Thrissur,Cluster beans,Cluster Beans,24-12-2024,2000,4500,4000
+Telangana,Warangal,Cluster beans,Cluster Beans,24-12-2024,2800,3500,3000
+Telangana,Thrippunithura,Cluster beans,Cluster Beans,24-12-2024,6462,6559,6559
+Telangana,Sultan bathery,Coconut,Other,24-12-2024,200,400,300
+Telangana,Thalasserry,Coconut Oil,Other,24-12-2024,2500,2500,2500
+Telangana,Thrissur,Coconut Seed,Other,24-12-2024,500,2800,2200
+Telangana,Sultan bathery,Coffee,Other,24-12-2024,8500,10000,9000
+Telangana,Warangal,Colacasia,Colacasia,24-12-2024,500,2600,1800
+Telangana,Thrippunithura,Colacasia,Other,24-12-2024,4500,5000,4750
+Telangana,Vemulawada,Cotton,Cotton (Unginned),24-12-2024,6000,8749,8159
+Telangana,Siddipet,Cowpea (Lobia/Karamani),Cowpea (W-S),24-12-2024,500,1000,900
+Telangana,Suryapeta,Cowpea (Lobia/Karamani),Other,24-12-2024,2000,3000,2500
+Telangana,Thrissur,Cowpea(Veg),Cowpea (Veg),24-12-2024,1000,2200,1800
+Telangana,Vengeri(Kozhikode),Cowpea(Veg),Cowpea (Veg),24-12-2024,1500,1500,1500
+Telangana,Thirurrangadi,Cowpea(Veg),Other,24-12-2024,2300,2300,2300
+Telangana,Thrippunithura,Cowpea(Veg),Cowpea (Veg),24-12-2024,2300,2300,2300
+Telangana,Thalasserry,Cowpea(Veg),Other,24-12-2024,6210,6930,6930
+Telangana,Warangal,Cucumbar(Kheera),Cucumbar,24-12-2024,400,800,600
+Telangana,Vengeri(Kozhikode),Cucumbar(Kheera),Cucumbar,24-12-2024,1000,1500,1250
+Telangana,Thrippunithura,Cucumbar(Kheera),Cucumbar,24-12-2024,1750,4000,2250
+Telangana,Vengola  VFPCK,Cucumbar(Kheera),Cucumbar,24-12-2024,2000,2000,2000
+Telangana,Taliparamba,Cucumbar(Kheera),Other,24-12-2024,2300,2300,2300
+Telangana,Thrissur,Cucumbar(Kheera),Cucumbar,24-12-2024,3000,4000,3500
+Telangana,Thirurrangadi,Cucumbar(Kheera),Other,24-12-2024,10316,12495,12495
+Telangana,Thrissur,Drumstick,Drumstick,24-12-2024,1000,1500,1250
+Telangana,Thrippunithura,Drumstick,Drumstick,24-12-2024,2200,2600,2400
+Telangana,Vengeri(Kozhikode),Drumstick,Drumstick,24-12-2024,2500,2500,2500
+Telangana,Thrissur,Elephant Yam (Suran),Other,24-12-2024,1950,1950,1950
+Telangana,Warangal,Field Pea,Field Pea,24-12-2024,1905,1905,1905
+Telangana,Warangal,French Beans (Frasbean),French Beans (Frasbean),24-12-2024,2355,2355,2355
+Telangana,Vengeri(Kozhikode),French Beans (Frasbean),French Beans (Frasbean),24-12-2024,10200,11510,11410
+Telangana,Somvarpet,Ginger(Green),Green Ginger,24-12-2024,200,800,400
+Telangana,Thrissur,Ginger(Green),Green Ginger,24-12-2024,1500,1500,1500
+Telangana,Thrippunithura,Ginger(Green),Green Ginger,24-12-2024,2000,3000,2500
+Telangana,Sultan bathery,Ginger(Green),Green Ginger,24-12-2024,2500,3500,3000
+Telangana,Thrissur,Green Chilli,Green Chilly,24-12-2024,800,2000,1800
+Telangana,Thirurrangadi,Green Chilli,Other,24-12-2024,1000,2000,1500
+Telangana,Thrippunithura,Green Chilli,Green Chilly,24-12-2024,1000,3000,2500
+Telangana,Warangal,Green Chilli,Green Chilly,24-12-2024,1000,3000,2500
+Telangana,Taliparamba,Green Chilli,Green Chilly,24-12-2024,3565,3565,3565
+Telangana,Zaheerabad,Green Gram (Moong)(Whole),Local,24-12-2024,2200,2600,2400
+Telangana,Suryapeta,Green Gram (Moong)(Whole),Local,24-12-2024,7100,7500,7200
+Telangana,Yalburga,Green Gram (Moong)(Whole),Green (Whole),24-12-2024,8176,8176,8176
+Telangana,Tenakallu,Groundnut,Balli/Habbu,24-12-2024,1916,2304,2304
+Telangana,Thrippunithura,Indian Beans (Seam),Other,24-12-2024,600,2000,750
+Telangana,Zaheerabad,Jowar(Sorghum),Jowar ( White),24-12-2024,3500,4000,3750
+Telangana,Thrippunithura,Leafy Vegetable,Other,24-12-2024,3000,3000,3000
+Telangana,Thrissur,Lemon,Other,24-12-2024,500,1500,1200
+Telangana,Tenali,Lemon,Lemon,24-12-2024,1500,1500,1500
+Telangana,Thrippunithura,Lemon,Other,24-12-2024,4000,4500,4200
+Telangana,Yalburga,Lint,Jaydhar,24-12-2024,2300,2320,2320
+Telangana,Thrippunithura,Little gourd (Kundru),Other,24-12-2024,1000,1500,1250
+Telangana,Thrissur,Little gourd (Kundru),Other,24-12-2024,1000,2500,2000
+Telangana,Siddipet,Maize,Deshi Red,24-12-2024,200,400,350
+Telangana,Tenakallu,Maize,Yellow,24-12-2024,1669,2419,2019
+Telangana,Yalburga,Maize,Hybrid/Local,24-12-2024,2100,2300,2200
+Telangana,Yellandu,Maize,Deshi Red,24-12-2024,2300,2300,2300
+Telangana,Zaheerabad,Maize,Deshi Red,24-12-2024,3000,3500,3250
+Telangana,Thrissur,Mango (Raw-Ripe),Mango - Raw-Ripe,24-12-2024,1200,2000,1600
+Telangana,Thrippunithura,Mango (Raw-Ripe),Mango - Raw-Ripe,24-12-2024,7200,7500,7350
+Telangana,Shimoga,Methi Seeds,Methiseeds,24-12-2024,1500,3200,2700
+Telangana,Thrissur,Nutmeg,Other,24-12-2024,1000,3000,2500
+Telangana,Thirurrangadi,Onion,Other,24-12-2024,150,250,200
+Telangana,Thrippunithura,Onion,Big,24-12-2024,400,1000,900
+Telangana,Thrissur,Onion,Onion,24-12-2024,400,1200,1000
+Telangana,Thalasserry,Onion,1st Sort,24-12-2024,2400,3600,2800
+Telangana,Taliparamba,Onion,Onion,24-12-2024,7227,8409,7511
+Telangana,Warangal,Orange,Orange,24-12-2024,1000,1500,1250
+Telangana,Suryapeta,Paddy(Dhan)(Common),B P T,24-12-2024,600,800,700
+Telangana,Yellandu,Paddy(Dhan)(Common),1001,24-12-2024,1556,2289,2289
+Telangana,Suryapeta,Paddy(Dhan)(Common),I.R. 64,24-12-2024,2205,2223,2223
+Telangana,Tuni,Paddy(Dhan)(Common),1001,24-12-2024,2225,2225,2225
+Telangana,Wyra,Paddy(Dhan)(Common),Swarna Masuri (New),24-12-2024,2300,2300,2300
+Telangana,Suryapeta,Paddy(Dhan)(Common),HMT,24-12-2024,2320,2320,2320
+Telangana,Siddipet,Paddy(Dhan)(Common),1001,24-12-2024,3000,9000,4500
+Telangana,Thungathurthy,Paddy(Dhan)(Common),1001,24-12-2024,6479,6805,6550
+Telangana,Thrissur,Pineapple,Pine Apple,24-12-2024,140,160,150
+Telangana,Thrippunithura,Pineapple,Pine Apple,24-12-2024,500,1000,900
+Telangana,Vengola  VFPCK,Pineapple,Pine Apple,24-12-2024,2500,2500,2500
+Telangana,Warangal,Pineapple,Pine Apple,24-12-2024,14000,16000,15000
+Telangana,Warangal,Potato,Potato,24-12-2024,700,2000,1600
+Telangana,Thalasserry,Potato,Other,24-12-2024,1000,2800,1800
+Telangana,Thrissur,Potato,Potato,24-12-2024,1500,5600,2500
+Telangana,Taliparamba,Potato,Potato,24-12-2024,1914,2356,2356
+Telangana,Thrippunithura,Potato,Potato,24-12-2024,2000,2500,2200
+Telangana,Thrissur,Pumpkin,Pumpkin,24-12-2024,500,600,550
+Telangana,Thirurrangadi,Pumpkin,Other,24-12-2024,1500,2000,1700
+Telangana,Thrippunithura,Pumpkin,Pumpkin,24-12-2024,2301,2311,2311
+Telangana,Vengeri(Kozhikode),Pumpkin,Pumpkin,24-12-2024,8006,13050,11860
+Telangana,Shimoga,Raddish,Raddish,24-12-2024,2000,4500,4000
+Telangana,Shimoga,Rice,Medium,24-12-2024,2000,5000,4000
+Telangana,Shimoga,Ridgeguard(Tori),Ridgeguard(Tori),24-12-2024,1000,3000,2500
+Telangana,Warangal,Ridgeguard(Tori),Ridgeguard(Tori),24-12-2024,5000,12000,10000
+Telangana,Thrippunithura,Snakeguard,Snakeguard,24-12-2024,500,1500,1200
+Telangana,Thrissur,Snakeguard,Snakeguard,24-12-2024,1000,3000,2500
+Telangana,Thirurrangadi,Snakeguard,Other,24-12-2024,2350,2581,2571
+Telangana,Thalasserry,Snakeguard,Other,24-12-2024,2850,8550,5700
+Telangana,Vengeri(Kozhikode),Snakeguard,Snakeguard,24-12-2024,7300,7515,7515
+Telangana,Zaheerabad,Soyabean,Black,24-12-2024,3500,4000,3750
+Telangana,Somvarpet,Sweet Potato,Sweet Potato,24-12-2024,520,680,600
+Telangana,Thrippunithura,Tapioca,Tapioca,24-12-2024,40,80,60
+Telangana,Thirurrangadi,Tapioca,Other,24-12-2024,3500,3500,3500
+Telangana,Thrissur,Tapioca,Tapioca,24-12-2024,12500,18750,15000
+Telangana,Warangal,Tomato,Tomato,24-12-2024,500,1000,800
+Telangana,Thirurrangadi,Tomato,Other,24-12-2024,1000,1500,1200
+Telangana,Thrippunithura,Tomato,Tomato,24-12-2024,1000,2000,1500
+Telangana,Vayalapadu,Tomato,Local,24-12-2024,2206,2209,2206
+Telangana,Thrissur,Tomato,Tomato,24-12-2024,2800,3000,2900
+Telangana,Vengeri(Kozhikode),Tomato,Tomato,24-12-2024,3500,4000,3750
+Telangana,Taliparamba,Tomato,Tomato,24-12-2024,6680,6700,6690
+Telangana,Thalasserry,Tomato,Other,24-12-2024,6850,6850,6850
+Telangana,Yellandu,Wood,Eucalyptus,24-12-2024,2056,2197,2133
+Telangana,Warangal,Yam (Ratalu),Yam (Ratalu),24-12-2024,5000,11000,9000
